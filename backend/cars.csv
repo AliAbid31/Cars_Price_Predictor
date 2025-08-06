@@ -1,0 +1,1175 @@
+Brand,Model,Ext Color,Car Type,Boot Size,Papers,Kilometres counter,Motorisation,Motor Power,Gearbox type,Price,Age,Kilometres_per_year
+Volkswagen,Golf,Noir,Compacte,380,1,84500,Essence,110,Manuelle,2980000,7,12071
+Volkswagen,Polo,Blanc,Citadine,280,1,72000,Diesel,105,Automatique,3750000,6,12000
+Volkswagen,Tiguan,Gris,SUV,520,0,112000,Diesel,140,Automatique,6850000,4,28000
+Kia,Sportage,Noir,SUV,546,1,138000,Diesel,178,Automatique,5870000,6,23000
+Dacia,Duster,Bleu,SUV,445,0,156000,GPL,105,Manuelle,2850000,4,39000
+Peugeot,308,Gris,Compacte,470,1,58000,Essence,130,Automatique,4950000,3,19333
+Citroen,C5 Aircross,Blanc,SUV,550,1,15000,Essence,130,Automatique,5200000,1,15000
+Skoda,Octavia,Noir,Berline,600,0,25000,Essence,150,Automatique,7650000,1,25000
+Hyundai,i20,Gris,Citadine,326,1,110000,Diesel,75,Manuelle,2650000,5,22000
+Renault,Clio,Rouge,Citadine,391,1,88000,Essence,90,Manuelle,3550000,4,22000
+Audi,A3,Blanc,Compacte,380,0,68000,Essence,160,Automatique,8950000,2,34000
+Mercedes,Classe C,Argent,Berline,455,1,125000,Diesel,170,Automatique,4100000,6,20833
+Nissan,Qashqai,Bleu,SUV,430,1,142000,Diesel,150,Manuelle,3450000,5,28400
+BMW,Serie 3,Gris,Berline,480,1,189000,Diesel,184,Automatique,3300000,7,27000
+Toyota,Corolla,Noir,Compacte,371,1,118000,Essence,140,Automatique,4520000,5,23600
+Seat,Ibiza,Blanc,Citadine,355,1,65000,Diesel,105,Manuelle,3200000,6,10833
+Opel,Grandland,Noir,SUV,514,1,32000,Essence,165,Automatique,5600000,2,16000
+Ford,Fiesta,Rouge,Citadine,292,1,187000,Essence,82,Manuelle,2150000,10,18700
+Fiat,500,Bleu,Citadine,185,1,42000,Essence,70,Manuelle,2750000,3,14000
+Suzuki,Swift,Gris,Citadine,265,1,31000,Essence,83,Automatique,4450000,1,31000
+Volkswagen,Passat,Noir,Berline,586,1,182000,Diesel,140,Manuelle,3400000,9,20222
+Kia,Rio,Gris,Citadine,325,1,95000,GPL,100,Automatique,3750000,5,19000
+Dacia,Sandero Stepway,Vert,SUV,320,0,115000,Diesel,90,Manuelle,2950000,3,38333
+Peugeot,208,Blanc,Citadine,311,1,132000,Essence,92,Manuelle,3150000,7,18857
+Skoda,Fabia,Noir,Citadine,330,1,143000,Essence,95,Manuelle,3950000,4,35750
+Hyundai,Tucson,Blanc,SUV,488,1,48000,Diesel,136,Automatique,8850000,3,16000
+Renault,Captur,Bleu,SUV,422,1,76000,Essence,105,Automatique,3400000,6,12666
+Audi,A4,Gris,Berline,480,1,189000,Diesel,140,Manuelle,2900000,8,23625
+Mercedes,GLA,Noir,SUV,435,1,72000,Diesel,204,Automatique,8250000,5,14400
+Nissan,Juke,Rouge,SUV,422,1,39000,Essence,117,Manuelle,4950000,2,19500
+BMW,X5,Noir,SUV,645,1,138000,Diesel,230,Automatique,3650000,10,13800
+Toyota,RAV4,Blanc,SUV,542,1,200000,Essence,170,Automatique,4100000,11,18181
+Seat,Ateca,Gris,SUV,510,1,69000,Essence,150,Manuelle,6100000,2,34500
+Opel,Mokka,Noir,SUV,350,1,34000,Essence,130,Automatique,4950000,2,17000
+Ford,Kuga,Noir,SUV,412,0,73000,Diesel,120,Automatique,5320000,3,24333
+Geely,Coolray,Gris,SUV,420,1,33000,Essence,177,Automatique,4975000,1,33000
+Fiat,Tipo,Noir,Berline,520,1,11000,Essence,110,Automatique,4770000,1,11000
+Suzuki,Baleno,Blanc,Compacte,320,1,4000,Essence,90,Automatique,4240000,1,4000
+Chevrolet,Aveo,Blanc,Compacte,370,1,500000,Essence,85,Manuelle,2220000,14,35714
+Citroen,C4,Noir,Compacte,380,1,129000,Essence,120,Manuelle,2450000,9,14333
+Land Rover,Evoque,Blanc,SUV,472,1,392000,Diesel,192,Automatique,3120000,12,32666
+DS,DS7,Gris,SUV,550,1,89000,Diesel,130,Automatique,6500000,3,29666
+Cupra,Formentor,Bleu,SUV,450,1,12000,Essence,150,Automatique,8900000,1,12000
+Volkswagen,T-Cross,Blanc,SUV,385,1,23000,Essence,110,Automatique,5320000,2,11500
+Kia,Seltos,Gris,SUV,392,1,0,Essence,115,Automatique,4200000,0,0
+Dacia,Jogger,Blanc,Monospace,565,1,17000,Essence,100,Manuelle,4500000,1,17000
+Peugeot,2008,Blanc,SUV,434,1,42000,Essence,115,Automatique,4900000,5,8400
+Skoda,Kamiq,Blanc,SUV,400,1,0,Essence,115,Automatique,6800000,0,0
+Hyundai,Santa Fe,Blanc,SUV,571,1,135000,Diesel,197,Automatique,5400000,8,16875
+Renault,Arkana,Gris,SUV,480,1,104000,Essence,140,Automatique,5400000,3,34666
+Audi,A4,Gris,Berline,480,1,530000,Diesel,140,Manuelle,1740000,16,33125
+Mercedes,Classe A,Blanc,Compacte,370,1,200000,Diesel,156,Automatique,3250000,9,22222
+Nissan,Patrol,Bleu,SUV,468,1,88000,Diesel,158,Manuelle,3610000,18,4888
+BMW,X3,Gris,SUV,550,1,282000,Diesel,177,Manuelle,2780000,17,16588
+Toyota,Hilux,Gris,Pickup,1500,1,483000,Diesel,120,Manuelle,4920000,10,48300
+Seat,Leon,Gris,Compacte,380,1,82000,Diesel,143,Manuelle,4850000,11,7454
+Opel,Grandland,Noir,SUV,514,1,35000,Essence,165,Automatique,5300000,2,17500
+Ford,Focus,Noir,Compacte,375,1,377000,Essence,100,Manuelle,1500000,17,22176
+Jetour,X70 Plus,Bleu,SUV,600,1,0,Essence,197,Automatique,9200000,0,0
+Fiat,500X,Gris,SUV,350,1,35500,Essence,140,Automatique,4500000,0,35500
+Suzuki,Celerio,Blanc,Citadine,254,1,326000,Essence,68,Manuelle,145000,12,27166
+Chevrolet,Captiva,Noir,SUV,477,1,34000,Essence,150,Automatique,4500000,3,11333
+Land Rover,Discovery,Noir,SUV,550,1,84000,Diesel,180,Automatique,6070000,7,12000
+Volkswagen,Polo,Gris,Citadine,280,1,56000,Essence,90,Manuelle,3950000,6,9333
+Kia,Sorento,Noir,SUV,616,1,52383,Diesel,200,Automatique,7500000,7,7483
+Dacia,Lodgy,Blanc,Monospace,827,1,25000,Diesel,90,Manuelle,4600000,4,6250
+Peugeot,Rifter,Gris,Utilitaire,3300,1,500,Diesel,92,Manuelle,7800000,0,500
+Skoda,Scala,Noir,Compacte,467,1,43000,Essence,115,Automatique,4100000,5,8600
+Hyundai,Accent,Blanc,Compacte,388,1,675000,Essence,100,Manuelle,2050000,20,33750
+Renault,Symbol,Gris,Berline,450,1,43000,Essence,80,Manuelle,3650000,6,7166
+Audi,Q3,Noir,SUV,450,1,214153,Diesel,177,Automatique,7300000,6,35692
+Mercedes,GLC,Blanc,SUV,550,1,125000,Diesel,170,Automatique,6700000,7,17857
+Nissan,Navara,Blanc,Pickup,1100,1,307000,Diesel,171,Manuelle,2340000,13,23615
+BMW,Serie 1,Bleu,Compacte,360,1,117000,Essence,136,Automatique,6210000,4,29250
+Toyota,Yaris,Gris,Citadine,286,1,370000,GPL,86,Manuelle,1720000,21,17619
+Seat,Arona,Bleu,SUV,400,1,22000,Essence,110,Automatique,5400000,3,7333
+Opel,Insignia,Noir,Berline,490,1,280000,Diesel,130,Automatique,2300000,13,21538
+Ford,Puma,Gris,SUV,456,1,30000,Essence,125,Manuelle,4500000,2,15000
+Jetour,X70 Plus,Gris,SUV,438,1,25000,Essence,155,Automatique,5000000,3,8333
+Fiat,Doblo,Blanc,Utilitaire,3800,1,0,Diesel,92,Manuelle,4060000,1,0
+Suzuki,Alto,Blanc,Citadine,177,1,244000,Essence,60,Manuelle,1600000,13,18769
+Chevrolet,Optra,Gris,Compacte,380,1,386000,Diesel,100,Manuelle,1650000,13,29692
+DS,DS5,Blanc,Compacte,420,1,196000,Diesel,181,Automatique,4200000,7,28000
+Land Rover,Evoque,Noir,SUV,472,1,117000,Diesel,200,Automatique,6400000,4,29250
+Volkswagen,Tiguan,Blanc,SUV,520,1,144000,Essence,200,Automatique,6600000,5,28800
+Kia,Rio,Gris,Citadine,325,1,5315,Essence,100,Automatique,4250000,6,885
+Dacia,Duster,Gris,SUV,445,1,0,Essence,150,Automatique,7150000,0,0
+Peugeot,308,Blanc,Compacte,470,1,218000,Diesel,110,Manuelle,3000000,11,19818
+Skoda,Superb,Noir,Berline,625,1,44000,Essence,180,Automatique,6510000,3,14666
+Hyundai,i30,Bleu,Compacte,395,1,245000,Essence,110,Manuelle,2000000,16,15312
+Renault,Twingo,Blanc,Citadine,219,1,325000,Essence,75,Manuelle,2100000,13,25000
+Audi,A6,Noir,Berline,530,1,178000,Diesel,177,Automatique,2800000,13,13692
+Mercedes,GLE,Noir,SUV,630,1,48000,Diesel,258,Automatique,13600000,4,12000
+Nissan,Micra,Blanc,Citadine,300,1,171000,Essence,80,Manuelle,2200000,8,21375
+BMW,X1,Blanc,SUV,505,1,68000,Essence,136,Automatique,7090000,3,22666
+Toyota,CH-R,Gris,SUV,377,1,39000,Hybride,140,Automatique,5950000,2,19500
+Seat,Ibiza,Noir,Citadine,355,1,88000,Essence,110,Automatique,5250000,6,14666
+Opel,Corsa,Gris,Citadine,309,1,330000,Diesel,90,Manuelle,1100000,16,20625
+Ford,Fiesta,Gris,Citadine,292,1,52000,Essence,85,Manuelle,2600000,5,10400
+Geely,Coolray,Blanc,SUV,420,1,50000,Essence,177,Automatique,5160000,1,50000
+Fiat,500,Blanc,Citadine,185,1,135000,Essence,70,Manuelle,2200000,8,16875
+Suzuki,Swift,Gris,Citadine,265,1,372000,GPL,85,Manuelle,2070000,12,31000
+Chevrolet,Sail,Blanc,Compacte,370,1,273000,Essence,97,Manuelle,1600000,12,22750
+Mitsubishi,L200,Blanc,Pickup,1100,0,0,Diesel,150,Manuelle,7000000,0,0
+Land Rover,Range Rover,Blanc,SUV,550,1,83000,Diesel,211,Automatique,5100000,7,11857
+Volkswagen,Golf,Gris,Compacte,380,1,165000,Diesel,110,Manuelle,3500000,9,18333
+Kia,Picanto,Noir,Citadine,255,1,139000,Essence,65,Automatique,3650000,7,19857
+Dacia,Sandero Stepway,Gris,SUV,320,1,0,Essence,110,Manuelle,5500000,0,0
+Peugeot,208,Blanc,Citadine,311,1,150000,Essence,92,Manuelle,3320000,7,21428
+Skoda,Fabia,Blanc,Citadine,330,1,267000,Essence,65,Manuelle,2430000,10,26700
+Hyundai,i20,Noir,Citadine,326,1,11000,Essence,100,Automatique,4850000,0,11000
+Renault,Clio,Gris,Citadine,391,1,95000,Diesel,85,Manuelle,3850000,5,19000
+Audi,A1,Blanc,Citadine,335,1,70000,Essence,150,Automatique,6600000,2,35000
+Mercedes,Classe E,Blanc,Berline,540,1,51000,Diesel,220,Automatique,8200000,6,8500
+Nissan,Sunny,Blanc,Berline,490,1,400000,GPL,100,Manuelle,2100000,12,33333
+BMW,Serie 5,Noir,Berline,520,1,254000,Essence,272,Automatique,3040000,15,16933
+Toyota,Aygo,Blanc,Citadine,168,1,65000,Essence,70,Automatique,3100000,4,16250
+Seat,Leon,Blanc,Compacte,380,1,97000,Diesel,143,Manuelle,6180000,6,16166
+Opel,Astra,Noir,Compacte,370,0,6200,Essence,130,Automatique,5450000,0,6200
+Ford,Focus,Blanc,Compacte,375,1,215000,Essence,182,Manuelle,2300000,12,17916
+Jetour,Dashing,Gris,SUV,486,1,0,Essence,197,Automatique,7480000,0,0
+Fiat,Tipo,Blanc,Berline,520,1,36000,Essence,110,Automatique,4150000,1,36000
+Suzuki,Baleno,Gris,Compacte,320,1,112000,Essence,90,Automatique,3620000,3,37333
+Chevrolet,Spark,Gris,Citadine,170,1,78000,Essence,65,Manuelle,1100000,9,8666
+DS,DS7,Noir,SUV,550,1,89000,Diesel,180,Automatique,7250000,3,29666
+Porsche,Cayenne,Blanc,SUV,772,1,70000,Essence,400,Automatique,14200000,12,5833
+Volkswagen,Tiguan,Gris,SUV,520,1,1700000,Diesel,150,Automatique,7000000,5,340000
+Kia,Sportage,Noir,SUV,546,1,167500,Diesel,177,Automatique,5000000,7,23928
+Dacia,Logan,Blanc,Berline,510,1,400000,Essence,75,Manuelle,1400000,11,36363
+Peugeot,3008,Gris,SUV,520,1,2300,Essence,180,Automatique,8900000,0,2300
+Skoda,Octavia,Noir,Berline,600,1,249100,Essence,143,Manuelle,4100000,7,35585
+Hyundai,Elantra,Blanc,Berline,458,1,0,Essence,115,Automatique,3900000,0,0
+Renault,Kadjar,Bleu,SUV,472,1,63000,Essence,140,Automatique,4900000,4,15750
+Audi,Q7,Noir,SUV,770,1,178000,Essence,252,Automatique,6950000,9,19777
+Mercedes,ML,Blanc,SUV,570,1,295000,Diesel,204,Automatique,3150000,12,24583
+Nissan,Sunny,Blanc,Berline,490,1,32000,Essence,100,Automatique,3800000,1,32000
+BMW,X6,Noir,SUV,580,1,145000,Diesel,306,Automatique,5200000,12,12083
+Toyota,Land Cruiser,Blanc,SUV,621,1,550000,Diesel,131,Manuelle,4300000,19,28947
+Seat,Ateca,Gris,SUV,510,1,57400,Essence,150,Automatique,7300000,2,28700
+Opel,Grandland,Noir,SUV,514,1,100,Essence,165,Automatique,6450000,0,100
+Ford,Kuga,Bleu,SUV,412,1,2000,Essence,180,Manuelle,6800000,3,666
+Chery,QQ,Blanc,Citadine,180,1,226000,Essence,38,Manuelle,1220000,12,18833
+Fiat,500X,Bleu,SUV,350,1,27500,Essence,140,Automatique,4800000,0,27500
+Suzuki,Maruti,Rouge,Citadine,235,1,45000,Essence,45,Manuelle,980000,15,3000
+Chevrolet,Captiva,Blanc,SUV,477,1,250000,Diesel,184,Manuelle,1540000,10,25000
+Citroen,Berlingo,Gris,Monospace,700,0,0,Diesel,180,Automatique,6850000,0,0
+Volkswagen,Golf,Noir,Compacte,380,1,31000,Essence,140,Manuelle,2100000,17,1823
+Kia,Rio,Gris,Citadine,325,1,192000,Diesel,112,Manuelle,2180000,16,12000
+Peugeot,206,Blanc,Citadine,245,1,280000,Essence,60,Manuelle,1730000,13,21538
+Renault,Clio,Noir,Citadine,391,1,468000,GPL,75,Manuelle,1280000,19,24631
+Dacia,Logan,Gris,Berline,510,1,338000,GPL,75,Manuelle,2220000,9,37555
+Fiat,Tipo,Gris,Compacte,440,0,45000,Essence,100,Manuelle,3700000,3,15000
+Opel,Corsa,Noir,Citadine,309,1,71000,Essence,70,Manuelle,3200000,3,23666
+Ford,Ranger,Bleu,Pickup,1500,1,239000,Diesel,125,Manuelle,2200000,9,26555
+Toyota,Yaris,Blanc,Citadine,286,1,300000,Essence,87,Manuelle,2770000,16,18750
+Volkswagen,Polo,Noir,Citadine,280,1,300000,Diesel,80,Manuelle,2000000,18,16666
+Hyundai,i10,Gris,Citadine,252,1,195000,Essence,87,Manuelle,3200000,8,24375
+Skoda,Fabia,Gris,Citadine,330,1,160000,Diesel,90,Manuelle,3600000,6,26666
+Nissan,Micra,Blanc,Citadine,300,1,222000,Essence,75,Manuelle,1700000,13,17076
+Suzuki,Swift,Gris,Citadine,265,1,72000,Essence,85,Automatique,3380000,3,24000
+Citroen,C3,Blanc,Citadine,300,1,350000,Essence,70,Manuelle,1850000,13,26923
+Peugeot,307,Bleu,Compacte,420,1,345000,Diesel,90,Manuelle,2150000,20,17250
+Renault,Megane,Gris,Compacte,384,1,500000,Diesel,85,Manuelle,950000,19,26315
+Volkswagen,Passat,Blanc,Berline,586,1,240000,Diesel,102,Manuelle,2250000,21,11428
+Opel,Astra,Noir,Compacte,370,1,4300,Essence,130,Automatique,6210000,0,4300
+Ford,Fiesta,Rouge,Citadine,292,1,47000,Essence,145,Manuelle,4100000,3,15666
+Toyota,Corolla,Blanc,Berline,450,1,390000,Diesel,130,Manuelle,1900000,16,24375
+Kia,Picanto,Noir,Citadine,255,1,454000,Essence,60,Manuelle,1750000,15,30266
+Hyundai,Accent,Gris,Compacte,388,1,120000,Diesel,128,Manuelle,3020000,7,17142
+Dacia,Sandero,Blanc,Citadine,320,1,5100,Essence,65,Manuelle,3150000,4,1275
+Fiat,Doblo,Noir,Utilitaire,3800,1,88000,Essence,92,Manuelle,3500000,2,44000
+BMW,Serie 3,Gris,Berline,480,0,30000,Diesel,200,Automatique,13100000,0,30000
+Mercedes,Classe C,Blanc,Berline,455,1,109000,Diesel,204,Automatique,3380000,12,9083
+Audi,Q5,Noir,SUV,550,1,165000,Diesel,170,Automatique,4900000,4,41250
+Volkswagen,Golf,Noir,Compacte,380,1,78000,Essence,110,Manuelle,3200000,8,9750
+Kia,Sportage,Gris,SUV,546,0,58000,Diesel,180,Automatique,7500000,2,29000
+Peugeot,207,Blanc,Citadine,385,1,280000,GPL,75,Manuelle,2300000,13,21538
+Renault,Captur,Noir,SUV,422,1,37000,Diesel,140,Manuelle,5680000,2,18500
+Hyundai,Tucson,Gris,SUV,488,0,3000,Diesel,136,Automatique,8400000,0,3000
+Skoda,Rapid,Blanc,Berline,415,1,143000,GPL,110,Manuelle,4200000,6,23833
+Nissan,Qashqai,Gris,SUV,430,0,100,Essence,140,Manuelle,5500000,2,50
+Toyota,RAV4,Noir,SUV,542,1,241000,Diesel,150,Manuelle,2450000,15,16066
+Seat,Leon,Noir,Compacte,380,1,147000,Diesel,150,Automatique,5870000,4,36750
+Ford,Focus,Noir,Compacte,375,1,250000,Essence,105,Automatique,2500000,12,20833
+Opel,Mokka,Gris,SUV,350,1,14000,Essence,130,Automatique,5250000,1,14000
+Volkswagen,Arteon,Gris,Berline,563,0,22000,Essence,190,Automatique,7900000,2,11000
+Audi,Q2,Noir,SUV,405,1,109000,Diesel,143,Automatique,6400000,5,21800
+BMW,X4,Gris,SUV,525,1,77000,Diesel,190,Automatique,12000000,3,25666
+Mercedes,ML,Blanc,SUV,570,1,109700,Diesel,204,Automatique,4360000,12,9141
+Hyundai,i30,Noir,Compacte,395,1,82500,Essence,120,Manuelle,4200000,3,27500
+Peugeot,208,Noir,Citadine,311,1,81000,Essence,82,Manuelle,5450000,3,27000
+Renault,Clio,Blanc,Citadine,391,1,20000,Diesel,100,Manuelle,5800000,1,20000
+Skoda,Karoq,Blanc,SUV,521,1,16500,Essence,150,Automatique,8200000,3,5500
+Kia,Rio,Blanc,Citadine,325,1,135000,Essence,100,Manuelle,3580000,5,27000
+Dacia,Duster,Rouge,SUV,445,1,106000,Diesel,105,Automatique,4650000,3,35333
+Toyota,Corolla,Argent,Berline,470,1,3200,Essence,140,Automatique,5500000,1,3200
+Seat,Ateca,Rouge,SUV,510,1,170000,Diesel,143,Automatique,5650000,7,24285
+Ford,Ranger,Gris,Pickup,1500,1,56000,Diesel,205,Automatique,7850000,4,14000
+Chery,Tiggo 4 Pro,Gris,SUV,420,1,18000,Essence,113,Manuelle,4150000,1,18000
+Fiat,500X,Noir,SUV,350,1,10000,Essence,140,Automatique,5300000,1,10000
+Suzuki,Vitara,Gris,SUV,375,1,118000,Diesel,129,Automatique,3400000,10,11800
+Chery,Tiggo 2 Pro,Blanc,SUV,420,1,32000,Essence,102,Automatique,3550000,2,16000
+Mitsubishi,Outlander,Blanc,SUV,477,1,275000,Diesel,140,Manuelle,2150000,18,15277
+Citroen,C3,Noir,Citadine,258,1,106000,Essence,110,Manuelle,3600000,4,26500
+Porsche,Macan,Blanc,SUV,500,1,30000,Essence,252,Automatique,14800000,7,4285
+Cupra,Formentor,Blanc,SUV,450,1,87000,Essence,150,Automatique,6450000,4,21750
+Volkswagen,T-Cross,Gris,SUV,385,1,27000,Essence,110,Automatique,5150000,3,9000
+Kia,Sorento,Argent,SUV,616,1,256000,Diesel,170,Automatique,2600000,15,17066
+Dacia,Jogger,Noir,Monospace,565,1,72000,Essence,100,Manuelle,4550000,4,18000
+Citroen,C Elysee,Gris,Berline,506,1,88000,Essence,72,Manuelle,2850000,13,6769
+Skoda,Kamiq,Noir,SUV,400,1,10000,Essence,150,Automatique,5550000,1,10000
+Hyundai,Accent,Blanc,Compacte,388,1,108000,Essence,100,Manuelle,3050000,9,12000
+Renault,Symbol,Rouge,Berline,450,1,170000,Essence,80,Manuelle,2950000,11,15454
+Audi,A3,Noir,Compacte,380,1,102000,Diesel,150,Automatique,6350000,8,12750
+Mercedes,Classe C,Bleu,Berline,455,1,2200,Diesel,194,Automatique,13200000,1,2200
+BMW,Serie 1,Noir,Compacte,360,1,5000,Essence,136,Automatique,13800000,1,5000
+Toyota,Yaris,Blanc,Citadine,286,1,175000,Essence,100,Manuelle,3350000,11,15909
+Seat,Arona,Noir,SUV,400,1,68000,Essence,110,Automatique,4300000,7,9714
+Opel,Insignia,Rouge,Berline,490,1,108000,Diesel,160,Automatique,3600000,11,9818
+Ford,Puma,Blanc,SUV,456,1,27000,Essence,125,Manuelle,4550000,3,9000
+Geely,Coolray,Argent,SUV,420,1,23000,Essence,177,Automatique,5450000,2,11500
+Fiat,500,Vert,Citadine,185,1,20000,Essence,70,Manuelle,260000,9,2222
+Suzuki,Celerio,Blanc,Citadine,254,1,120000,Essence,68,Automatique,1950000,13,9230
+Chevrolet,Spark,Rouge,Citadine,170,1,295000,Essence,68,Manuelle,1450000,13,22692
+Mitsubishi,L200,Gris,Pickup,1100,1,142000,Diesel,150,Automatique,5400000,5,28400
+Citroen,C5 Aircross,Noir,SUV,550,1,5000,Essence,180,Automatique,5950000,1,5000
+Porsche,Cayenne,Argent,SUV,772,1,195000,Diesel,265,Automatique,6150000,11,17727
+Volkswagen,Golf,Blanc,Compacte,380,1,92000,Diesel,110,Manuelle,3100000,6,15333
+Kia,Carens,Gris,Monospace,492,1,134000,Diesel,130,Manuelle,2980000,8,16750
+Dacia,Sandero Stepway,Noir,SUV,320,1,88000,Diesel,90,Manuelle,3250000,5,17600
+Peugeot,5008,Argent,SUV,680,0,42000,Essence,180,Automatique,7200000,2,21000
+Skoda,Kodiaq,Noir,SUV,630,1,62000,Diesel,200,Automatique,8800000,4,15500
+Hyundai,Creta,Gris,SUV,402,1,8500,Essence,128,Automatique,5850000,1,8500
+Renault,Megane,Blanc,Compacte,384,1,115000,Diesel,110,Manuelle,3300000,8,14375
+Audi,Q5,Gris,SUV,550,1,78000,Diesel,204,Automatique,9200000,4,19500
+Mercedes,GLA,Blanc,SUV,435,1,68000,Diesel,204,Automatique,8650000,6,11333
+Nissan,Juke,Noir,SUV,422,1,45000,Essence,117,Manuelle,5050000,2,22500
+BMW,X5,Argent,SUV,645,1,162000,Diesel,230,Automatique,3850000,9,18000
+Toyota,RAV4,Gris,SUV,542,1,178000,Essence,170,Automatique,3950000,10,17800
+Seat,Ateca,Blanc,SUV,510,1,58000,Essence,150,Manuelle,5950000,2,29000
+Opel,Mokka,Bleu,SUV,350,1,42000,Essence,130,Automatique,4800000,3,14000
+Ford,Kuga,Gris,SUV,412,1,86000,Diesel,120,Automatique,5100000,6,14333
+Geely,Coolray,Noir,SUV,420,1,42000,Essence,177,Automatique,5050000,2,21000
+Fiat,Tipo,Rouge,Berline,520,1,25000,Essence,110,Automatique,4600000,2,12500
+Suzuki,Baleno,Noir,Compacte,320,1,18000,Essence,90,Automatique,4100000,1,18000
+Chevrolet,Aveo,Gris,Compacte,370,1,420000,Essence,85,Manuelle,1980000,13,32307
+Citroen,C4,Blanc,Compacte,380,1,112000,Essence,120,Manuelle,2600000,8,14000
+Land Rover,Evoque,Argent,SUV,472,1,345000,Diesel,192,Automatique,3350000,11,31363
+DS,DS7,Blanc,SUV,550,1,102000,Diesel,130,Automatique,6200000,4,25500
+Cupra,Formentor,Gris,SUV,450,1,25000,Essence,150,Automatique,8650000,2,12500
+Volkswagen,T-Cross,Rouge,SUV,385,1,31000,Essence,110,Automatique,5150000,3,10333
+Kia,Seltos,Noir,SUV,392,1,12000,Essence,115,Automatique,4050000,1,12000
+Dacia,Jogger,Gris,Monospace,565,1,28000,Essence,100,Manuelle,4350000,2,14000
+Peugeot,2008,Noir,SUV,434,1,56000,Essence,115,Automatique,4700000,6,9333
+Skoda,Kamiq,Gris,SUV,400,1,15000,Essence,115,Automatique,6550000,1,15000
+Hyundai,Santa Fe,Noir,SUV,571,1,148000,Diesel,197,Automatique,5250000,9,16444
+Renault,Arkana,Blanc,SUV,480,1,89000,Essence,140,Automatique,5150000,3,29666
+Audi,A4,Blanc,Berline,480,1,485000,Diesel,140,Manuelle,1900000,15,32333
+Mercedes,Classe A,Gris,Compacte,370,1,178000,Diesel,156,Automatique,3400000,8,22250
+Nissan,Patrol,Noir,SUV,468,1,102000,Diesel,158,Manuelle,3450000,16,6375
+BMW,X3,Blanc,SUV,550,1,255000,Diesel,177,Manuelle,2950000,16,15937
+Toyota,Hilux,Blanc,Pickup,1500,1,450000,Diesel,120,Manuelle,4700000,10,45000
+Seat,Leon,Argent,Compacte,380,1,92000,Diesel,143,Manuelle,4700000,10,9200
+Opel,Grandland,Gris,SUV,514,1,42000,Essence,165,Automatique,5450000,3,14000
+Ford,Focus,Gris,Compacte,375,1,345000,Essence,100,Manuelle,1650000,16,21562
+Jetour,X70 Plus,Noir,SUV,600,1,5000,Essence,197,Automatique,8950000,1,5000
+Fiat,500X,Rouge,SUV,350,1,32000,Essence,140,Automatique,4650000,1,32000
+Suzuki,Celerio,Noir,Citadine,254,1,286000,Essence,68,Manuelle,165000,14,20428
+Chevrolet,Captiva,Gris,SUV,477,1,42000,Essence,150,Automatique,4350000,4,10500
+Land Rover,Discovery,Blanc,SUV,550,1,96000,Diesel,180,Automatique,5900000,8,12000
+Volkswagen,Polo,Bleu,Citadine,280,1,64000,Essence,90,Manuelle,3800000,7,9142
+Kia,Sorento,Gris,SUV,616,1,61000,Diesel,200,Automatique,7300000,9,6777
+Dacia,Lodgy,Noir,Monospace,827,1,35000,Diesel,90,Manuelle,4450000,5,7000
+Peugeot,Rifter,Blanc,Utilitaire,3300,1,2000,Diesel,92,Manuelle,7650000,1,2000
+Skoda,Scala,Gris,Compacte,467,1,51000,Essence,115,Automatique,3950000,6,8500
+Hyundai,Accent,Bleu,Compacte,388,1,620000,Essence,100,Manuelle,2150000,19,32631
+Renault,Symbol,Noir,Berline,450,1,51000,Essence,80,Manuelle,3500000,7,7285
+Audi,Q3,Blanc,SUV,450,1,189000,Diesel,177,Automatique,7050000,6,31500
+Mercedes,GLC,Noir,SUV,550,1,142000,Diesel,170,Automatique,6850000,8,17750
+Nissan,Navara,Gris,Pickup,1100,1,286000,Diesel,171,Manuelle,2450000,13,22000
+BMW,Serie 1,Blanc,Compacte,360,1,102000,Essence,136,Automatique,6050000,4,25500
+Toyota,Yaris,Bleu,Citadine,286,1,345000,GPL,86,Manuelle,1850000,20,17250
+Seat,Arona,Gris,SUV,400,1,29000,Essence,110,Automatique,4050000,4,7250
+Opel,Insignia,Blanc,Berline,490,1,245000,Diesel,130,Automatique,2450000,12,20416
+Ford,Puma,Noir,SUV,456,1,36000,Essence,125,Manuelle,4400000,3,12000
+Geely,Coolray,Bleu,SUV,420,1,45000,Essence,177,Automatique,5250000,2,22500
+Fiat,500,Noir,Citadine,185,1,158000,Essence,70,Manuelle,2400000,9,17555
+Suzuki,Swift,Blanc,Citadine,265,1,345000,GPL,85,Manuelle,2200000,12,28750
+Chevrolet,Sail,Gris,Compacte,370,1,255000,Essence,97,Manuelle,1700000,12,21250
+Mitsubishi,L200,Noir,Pickup,1100,1,125000,Diesel,150,Manuelle,5200000,5,25000
+Land Rover,Range Rover,Gris,SUV,550,1,95000,Diesel,211,Automatique,5300000,8,11875
+Volkswagen,Golf,Gris,Compacte,380,1,142000,Diesel,110,Manuelle,3350000,8,17750
+Kia,Picanto,Bleu,Citadine,255,1,152000,Essence,65,Automatique,3500000,8,19000
+Dacia,Sandero Stepway,Blanc,SUV,320,1,18000,Essence,110,Manuelle,5300000,1,18000
+Peugeot,208,Rouge,Citadine,311,1,168000,Essence,92,Manuelle,3450000,8,21000
+Skoda,Fabia,Bleu,Citadine,330,1,245000,Essence,65,Manuelle,2550000,10,24500
+Hyundai,i20,Blanc,Citadine,326,1,18000,Essence,100,Automatique,4700000,1,18000
+Renault,Clio,Argent,Citadine,391,1,102000,Diesel,85,Manuelle,3700000,6,17000
+Audi,A1,Noir,Citadine,335,1,85000,Essence,150,Automatique,6450000,3,28333
+Mercedes,Classe E,Gris,Berline,540,1,62000,Diesel,220,Automatique,7950000,7,8857
+Nissan,Sunny,Gris,Berline,490,1,375000,GPL,100,Manuelle,2150000,12,31250
+BMW,Serie 5,Blanc,Berline,520,1,238000,Essence,272,Automatique,3150000,15,15866
+Toyota,Aygo,Rouge,Citadine,168,1,78000,Essence,70,Automatique,2950000,5,15600
+Seat,Leon,Noir,Compacte,380,1,108000,Diesel,143,Manuelle,6000000,7,15428
+Opel,Astra,Blanc,Compacte,370,1,8500,Essence,130,Automatique,5300000,1,8500
+Ford,Focus,Argent,Compacte,375,1,198000,Essence,182,Manuelle,2400000,12,16500
+Jetour,Dashing,Blanc,SUV,486,1,10000,Essence,197,Automatique,7350000,1,10000
+Fiat,Tipo,Noir,Berline,520,1,42000,Essence,110,Automatique,4550000,2,21000
+Suzuki,Baleno,Blanc,Compacte,320,1,98000,Essence,90,Automatique,3750000,3,32666
+Chevrolet,Spark,Noir,Citadine,170,1,85000,Essence,65,Manuelle,1150000,10,8500
+DS,DS7,Argent,SUV,550,1,102000,Diesel,180,Automatique,7000000,4,25500
+Porsche,Cayenne,Gris,SUV,772,1,85000,Essence,400,Automatique,13800000,14,6071
+Volkswagen,Tiguan,Bleu,SUV,520,1,1420000,Diesel,150,Automatique,6850000,5,284000
+Kia,Sportage,Argent,SUV,546,1,155000,Diesel,177,Automatique,5150000,7,22142
+Dacia,Logan,Gris,Berline,510,1,375000,Essence,75,Manuelle,1450000,11,34090
+Peugeot,3008,Blanc,SUV,520,1,4500,Essence,180,Automatique,8750000,1,4500
+Skoda,Octavia,Gris,Berline,600,1,234000,Essence,143,Manuelle,4250000,7,33428
+Hyundai,Elantra,Noir,Berline,458,1,10000,Essence,115,Automatique,3750000,1,10000
+Renault,Kadjar,Noir,SUV,472,1,72000,Essence,140,Automatique,4750000,5,14400
+Audi,Q7,Gris,SUV,770,1,165000,Essence,252,Automatique,6700000,9,18333
+Mercedes,ML,Noir,SUV,570,1,278000,Diesel,204,Automatique,3250000,12,23166
+Nissan,Sunny,Noir,Berline,490,1,35000,Essence,100,Automatique,3650000,2,17500
+BMW,X6,Blanc,SUV,580,1,138000,Diesel,306,Automatique,5350000,12,11500
+Toyota,Land Cruiser,Noir,SUV,621,1,520000,Diesel,131,Manuelle,4450000,19,27368
+Seat,Ateca,Blanc,SUV,510,1,62000,Essence,150,Automatique,7050000,3,20666
+Opel,Grandland,Bleu,SUV,514,1,2500,Essence,165,Automatique,6300000,1,2500
+Ford,Kuga,Noir,SUV,412,1,3000,Essence,180,Manuelle,6650000,3,1000
+Chery,QQ,Gris,Citadine,180,1,210000,Essence,38,Manuelle,1300000,12,17500
+Fiat,500X,Vert,SUV,350,1,30000,Essence,140,Automatique,4950000,1,30000
+Suzuki,Maruti,Blanc,Citadine,235,1,51000,Essence,45,Manuelle,1050000,16,3187
+Chevrolet,Captiva,Rouge,SUV,477,1,235000,Diesel,184,Manuelle,1600000,10,23500
+Citroen,Berlingo,Blanc,Monospace,700,1,5000,Diesel,180,Automatique,6700000,1,5000
+Volkswagen,Golf,Bleu,Compacte,380,1,35000,Essence,140,Manuelle,2250000,16,2187
+Kia,Rio,Noir,Citadine,325,1,178000,Diesel,112,Manuelle,2250000,15,11866
+Peugeot,206,Gris,Citadine,245,1,265000,Essence,60,Manuelle,1800000,13,20384
+Renault,Clio,Bleu,Citadine,391,1,452000,GPL,75,Manuelle,1350000,19,23789
+Dacia,Logan,Rouge,Berline,510,1,325000,GPL,75,Manuelle,2150000,9,36111
+Fiat,Tipo,Blanc,Compacte,440,1,50000,Essence,100,Manuelle,3550000,4,12500
+Opel,Corsa,Blanc,Citadine,309,1,78000,Essence,70,Manuelle,3050000,4,19500
+Ford,Ranger,Noir,Pickup,1500,1,225000,Diesel,125,Manuelle,2300000,9,25000
+Toyota,Yaris,Noir,Citadine,286,1,285000,Essence,87,Manuelle,2650000,16,17812
+Volkswagen,Polo,Argent,Citadine,280,1,285000,Diesel,80,Manuelle,1950000,18,15833
+Hyundai,i10,Blanc,Citadine,252,1,188000,Essence,87,Manuelle,3150000,8,23500
+Skoda,Fabia,Rouge,Citadine,330,1,152000,Diesel,90,Manuelle,3450000,6,25333
+Nissan,Micra,Gris,Citadine,300,1,215000,Essence,75,Manuelle,1750000,13,16538
+Suzuki,Swift,Noir,Citadine,265,1,78000,Essence,85,Automatique,3250000,4,19500
+Citroen,C3,Rouge,Citadine,300,1,338000,Essence,70,Manuelle,1900000,13,26000
+Peugeot,307,Noir,Compacte,420,1,330000,Diesel,90,Manuelle,2200000,20,16500
+Renault,Megane,Blanc,Compacte,384,1,485000,Diesel,85,Manuelle,1000000,19,25526
+Volkswagen,Passat,Gris,Berline,586,1,235000,Diesel,102,Manuelle,2300000,21,11190
+Opel,Astra,Gris,Compacte,370,1,5500,Essence,130,Automatique,6100000,1,5500
+Ford,Fiesta,Noir,Citadine,292,1,52000,Essence,145,Manuelle,3950000,4,13000
+Toyota,Corolla,Gris,Berline,450,1,375000,Diesel,130,Manuelle,1950000,16,23437
+Kia,Picanto,Blanc,Citadine,255,1,438000,Essence,60,Manuelle,1800000,15,29200
+Hyundai,Accent,Rouge,Compacte,388,1,115000,Diesel,128,Manuelle,2950000,7,16428
+Dacia,Sandero,Noir,Citadine,320,1,6500,Essence,65,Manuelle,3050000,5,1300
+Fiat,Doblo,Gris,Utilitaire,3800,1,95000,Essence,92,Manuelle,3400000,3,31666
+BMW,Serie 3,Blanc,Berline,480,1,35000,Diesel,200,Automatique,12700000,2,17500
+Mercedes,Classe C,Argent,Berline,455,1,102000,Diesel,204,Automatique,3450000,11,9272
+Audi,Q5,Blanc,SUV,550,1,158000,Diesel,170,Automatique,5050000,4,39500
+Volkswagen,Golf,Vert,Compacte,380,1,82000,Essence,110,Manuelle,3150000,8,10250
+Kia,Sportage,Bleu,SUV,546,1,62000,Diesel,180,Automatique,7350000,3,20666
+Peugeot,207,Noir,Citadine,385,1,272000,GPL,75,Manuelle,2250000,13,20923
+Renault,Captur,Argent,SUV,422,1,40000,Diesel,140,Manuelle,5500000,3,13333
+Hyundai,Tucson,Noir,SUV,488,1,6000,Diesel,136,Automatique,8150000,1,6000
+Skoda,Rapid,Gris,Berline,415,1,138000,GPL,110,Manuelle,4100000,6,23000
+Nissan,Qashqai,Blanc,SUV,430,1,200,Essence,140,Manuelle,5350000,2,100
+Toyota,RAV4,Gris,SUV,542,1,235000,Diesel,150,Manuelle,2500000,15,15666
+Seat,Leon,Bleu,Compacte,380,1,142000,Diesel,150,Automatique,5750000,5,28400
+Ford,Focus,Rouge,Compacte,375,1,242000,Essence,105,Automatique,2550000,12,20166
+Opel,Mokka,Blanc,SUV,350,1,16000,Essence,130,Automatique,5100000,2,8000
+Volkswagen,Arteon,Noir,Berline,563,1,25000,Essence,190,Automatique,7700000,2,12500
+Audi,Q2,Gris,SUV,405,1,102000,Diesel,143,Automatique,6250000,5,20400
+BMW,X4,Noir,SUV,525,1,82000,Diesel,190,Automatique,11800000,4,20500
+Mercedes,ML,Gris,SUV,570,1,115000,Diesel,204,Automatique,4450000,13,8846
+Hyundai,i30,Rouge,Compacte,395,1,88000,Essence,120,Manuelle,4050000,4,22000
+Peugeot,208,Noir,Citadine,311,1,87000,Essence,82,Manuelle,5300000,4,21750
+Renault,Clio,Bleu,Citadine,391,1,22000,Diesel,100,Manuelle,5650000,2,11000
+Skoda,Karoq,Gris,SUV,521,1,18000,Essence,150,Automatique,8050000,4,4500
+Kia,Rio,Argent,Citadine,325,1,142000,Essence,100,Manuelle,3450000,6,23666
+Dacia,Duster,Rouge,SUV,445,1,98000,Diesel,105,Automatique,4550000,3,32666
+Toyota,Corolla,Argent,Berline,470,1,4500,Essence,140,Automatique,5350000,1,4500
+Seat,Ateca,Rouge,SUV,510,1,170000,Diesel,143,Automatique,5650000,7,24285
+Ford,Ranger,Gris,Pickup,1500,1,56000,Diesel,205,Automatique,7850000,4,14000
+Chery,Tiggo 4 Pro,Gris,SUV,420,1,18000,Essence,113,Manuelle,4150000,1,18000
+Fiat,500X,Noir,SUV,350,1,10000,Essence,140,Automatique,5300000,1,10000
+Suzuki,Vitara,Gris,SUV,375,1,118000,Diesel,129,Automatique,3400000,10,11800
+Chery,Tiggo 2 Pro,Blanc,SUV,420,1,32000,Essence,102,Automatique,3550000,2,16000
+Mitsubishi,Outlander,Blanc,SUV,477,1,275000,Diesel,140,Manuelle,2150000,18,15277
+Citroen,C3,Noir,Citadine,258,1,106000,Essence,110,Manuelle,3600000,4,26500
+Porsche,Macan,Blanc,SUV,500,1,30000,Essence,252,Automatique,14800000,7,4285
+Cupra,Formentor,Blanc,SUV,450,1,87000,Essence,150,Automatique,6450000,4,21750
+Volkswagen,T-Cross,Gris,SUV,385,1,27000,Essence,110,Automatique,5150000,3,9000
+Kia,Sorento,Argent,SUV,616,1,256000,Diesel,170,Automatique,2600000,15,17066
+Dacia,Jogger,Noir,Monospace,565,1,72000,Essence,100,Manuelle,4550000,4,18000
+Citroen,C Elysee,Gris,Berline,506,1,88000,Essence,72,Manuelle,2850000,13,6769
+Skoda,Kamiq,Noir,SUV,400,1,10000,Essence,150,Automatique,5550000,1,10000
+Hyundai,Accent,Blanc,Compacte,388,1,108000,Essence,100,Manuelle,3050000,9,12000
+Renault,Symbol,Rouge,Berline,450,1,170000,Essence,80,Manuelle,2950000,11,15454
+Audi,A3,Noir,Compacte,380,1,102000,Diesel,150,Automatique,6350000,8,12750
+Mercedes,Classe C,Bleu,Berline,455,1,2200,Diesel,194,Automatique,13200000,1,2200
+BMW,Serie 1,Noir,Compacte,360,1,5000,Essence,136,Automatique,13800000,1,5000
+Toyota,Yaris,Blanc,Citadine,286,1,175000,Essence,100,Manuelle,3350000,11,15909
+Seat,Arona,Noir,SUV,400,1,68000,Essence,110,Automatique,4300000,7,9714
+Opel,Insignia,Rouge,Berline,490,1,108000,Diesel,160,Automatique,3600000,11,9818
+Ford,Puma,Blanc,SUV,456,1,27000,Essence,125,Manuelle,4550000,3,9000
+Geely,Coolray,Argent,SUV,420,1,23000,Essence,177,Automatique,5450000,2,11500
+Fiat,500,Vert,Citadine,185,1,20000,Essence,70,Manuelle,260000,9,2222
+Suzuki,Celerio,Blanc,Citadine,254,1,120000,Essence,68,Automatique,1950000,13,9230
+Chevrolet,Spark,Rouge,Citadine,170,1,295000,Essence,68,Manuelle,1450000,13,22692
+Mitsubishi,L200,Gris,Pickup,1100,1,142000,Diesel,150,Automatique,5400000,5,28400
+Citroen,C5 Aircross,Noir,SUV,550,1,5000,Essence,180,Automatique,5950000,1,5000
+Porsche,Cayenne,Argent,SUV,772,1,195000,Diesel,265,Automatique,6150000,11,17727
+Volkswagen,Golf,Blanc,Compacte,380,1,92000,Diesel,110,Manuelle,3100000,6,15333
+Kia,Carens,Gris,Monospace,492,1,134000,Diesel,130,Manuelle,2980000,8,16750
+Dacia,Sandero Stepway,Noir,SUV,320,1,88000,Diesel,90,Manuelle,3250000,5,17600
+Peugeot,5008,Argent,SUV,680,0,42000,Essence,180,Automatique,7200000,2,21000
+Skoda,Kodiaq,Noir,SUV,630,1,62000,Diesel,200,Automatique,8800000,4,15500
+Hyundai,Creta,Gris,SUV,402,1,8500,Essence,128,Automatique,5850000,1,8500
+Renault,Megane,Blanc,Compacte,384,1,115000,Diesel,110,Manuelle,3300000,8,14375
+Audi,Q5,Gris,SUV,550,1,78000,Diesel,204,Automatique,9200000,4,19500
+Mercedes,GLA,Blanc,SUV,435,1,68000,Diesel,204,Automatique,8650000,6,11333
+Nissan,Juke,Noir,SUV,422,1,45000,Essence,117,Manuelle,5050000,2,22500
+BMW,X5,Argent,SUV,645,1,162000,Diesel,230,Automatique,3850000,9,18000
+Toyota,RAV4,Gris,SUV,542,1,178000,Essence,170,Automatique,3950000,10,17800
+Seat,Ateca,Blanc,SUV,510,1,58000,Essence,150,Manuelle,5950000,2,29000
+Opel,Mokka,Bleu,SUV,350,1,42000,Essence,130,Automatique,4800000,3,14000
+Ford,Kuga,Gris,SUV,412,1,86000,Diesel,120,Automatique,5100000,6,14333
+Geely,Coolray,Noir,SUV,420,1,42000,Essence,177,Automatique,5050000,2,21000
+Fiat,Tipo,Rouge,Berline,520,1,25000,Essence,110,Automatique,4600000,2,12500
+Suzuki,Baleno,Noir,Compacte,320,1,18000,Essence,90,Automatique,4100000,1,18000
+Chevrolet,Aveo,Gris,Compacte,370,1,420000,Essence,85,Manuelle,1980000,13,32307
+Citroen,C4,Blanc,Compacte,380,1,112000,Essence,120,Manuelle,2600000,8,14000
+Land Rover,Evoque,Argent,SUV,472,1,345000,Diesel,192,Automatique,3350000,11,31363
+DS,DS7,Blanc,SUV,550,1,102000,Diesel,130,Automatique,6200000,4,25500
+Cupra,Formentor,Gris,SUV,450,1,25000,Essence,150,Automatique,8650000,2,12500
+Volkswagen,T-Cross,Rouge,SUV,385,1,31000,Essence,110,Automatique,5150000,3,10333
+Kia,Seltos,Noir,SUV,392,1,12000,Essence,115,Automatique,4050000,1,12000
+Dacia,Jogger,Gris,Monospace,565,1,28000,Essence,100,Manuelle,4350000,2,14000
+Peugeot,2008,Noir,SUV,434,1,56000,Essence,115,Automatique,4700000,6,9333
+Skoda,Kamiq,Gris,SUV,400,1,15000,Essence,115,Automatique,6550000,1,15000
+Hyundai,Santa Fe,Noir,SUV,571,1,148000,Diesel,197,Automatique,5250000,9,16444
+Renault,Arkana,Blanc,SUV,480,1,89000,Essence,140,Automatique,5150000,3,29666
+Audi,A4,Blanc,Berline,480,1,485000,Diesel,140,Manuelle,1900000,15,32333
+Mercedes,Classe A,Gris,Compacte,370,1,178000,Diesel,156,Automatique,3400000,8,22250
+Nissan,Patrol,Noir,SUV,468,1,102000,Diesel,158,Manuelle,3450000,16,6375
+BMW,X3,Blanc,SUV,550,1,255000,Diesel,177,Manuelle,2950000,16,15937
+Toyota,Hilux,Blanc,Pickup,1500,1,450000,Diesel,120,Manuelle,4700000,10,45000
+Seat,Leon,Argent,Compacte,380,1,92000,Diesel,143,Manuelle,4700000,10,9200
+Opel,Grandland,Gris,SUV,514,1,42000,Essence,165,Automatique,5450000,3,14000
+Ford,Focus,Gris,Compacte,375,1,345000,Essence,100,Manuelle,1650000,16,21562
+Jetour,X70 Plus,Noir,SUV,600,1,5000,Essence,197,Automatique,8950000,1,5000
+Fiat,500X,Rouge,SUV,350,1,32000,Essence,140,Automatique,4650000,1,32000
+Suzuki,Celerio,Noir,Citadine,254,1,286000,Essence,68,Manuelle,165000,14,20428
+Chevrolet,Captiva,Gris,SUV,477,1,42000,Essence,150,Automatique,4350000,4,10500
+Land Rover,Discovery,Blanc,SUV,550,1,96000,Diesel,180,Automatique,5900000,8,12000
+Volkswagen,Polo,Bleu,Citadine,280,1,64000,Essence,90,Manuelle,3800000,7,9142
+Kia,Sorento,Gris,SUV,616,1,61000,Diesel,200,Automatique,7300000,9,6777
+Dacia,Lodgy,Noir,Monospace,827,1,35000,Diesel,90,Manuelle,4450000,5,7000
+Peugeot,Rifter,Blanc,Utilitaire,3300,1,2000,Diesel,92,Manuelle,7650000,1,2000
+Skoda,Scala,Gris,Compacte,467,1,51000,Essence,115,Automatique,3950000,6,8500
+Hyundai,Accent,Bleu,Compacte,388,1,620000,Essence,100,Manuelle,2150000,19,32631
+Renault,Symbol,Noir,Berline,450,1,51000,Essence,80,Manuelle,3500000,7,7285
+Audi,Q3,Blanc,SUV,450,1,189000,Diesel,177,Automatique,7050000,6,31500
+Mercedes,GLC,Noir,SUV,550,1,142000,Diesel,170,Automatique,6850000,8,17750
+Nissan,Navara,Gris,Pickup,1100,1,286000,Diesel,171,Manuelle,2450000,13,22000
+BMW,Serie 1,Blanc,Compacte,360,1,102000,Essence,136,Automatique,6050000,4,25500
+Toyota,Yaris,Bleu,Citadine,286,1,345000,GPL,86,Manuelle,1850000,20,17250
+Seat,Arona,Gris,SUV,400,1,29000,Essence,110,Automatique,4050000,4,7250
+Opel,Insignia,Blanc,Berline,490,1,245000,Diesel,130,Automatique,2450000,12,20416
+Ford,Puma,Noir,SUV,456,1,36000,Essence,125,Manuelle,4400000,3,12000
+Geely,Coolray,Bleu,SUV,420,1,45000,Essence,177,Automatique,5250000,2,22500
+Fiat,500,Noir,Citadine,185,1,158000,Essence,70,Manuelle,2400000,9,17555
+Suzuki,Swift,Blanc,Citadine,265,1,345000,GPL,85,Manuelle,2200000,12,28750
+Chevrolet,Sail,Gris,Compacte,370,1,255000,Essence,97,Manuelle,1700000,12,21250
+Mitsubishi,L200,Noir,Pickup,1100,1,125000,Diesel,150,Manuelle,5200000,5,25000
+Land Rover,Range Rover,Gris,SUV,550,1,95000,Diesel,211,Automatique,5300000,8,11875
+Volkswagen,Golf,Gris,Compacte,380,1,142000,Diesel,110,Manuelle,3350000,8,17750
+Kia,Picanto,Bleu,Citadine,255,1,152000,Essence,65,Automatique,3500000,8,19000
+Dacia,Sandero Stepway,Blanc,SUV,320,1,18000,Essence,110,Manuelle,5300000,1,18000
+Peugeot,208,Rouge,Citadine,311,1,168000,Essence,92,Manuelle,3450000,8,21000
+Skoda,Fabia,Bleu,Citadine,330,1,245000,Essence,65,Manuelle,2550000,10,24500
+Hyundai,i20,Blanc,Citadine,326,1,18000,Essence,100,Automatique,4700000,1,18000
+Renault,Clio,Argent,Citadine,391,1,102000,Diesel,85,Manuelle,3700000,6,17000
+Audi,A1,Noir,Citadine,335,1,85000,Essence,150,Automatique,6450000,3,28333
+Mercedes,Classe E,Gris,Berline,540,1,62000,Diesel,220,Automatique,7950000,7,8857
+Nissan,Sunny,Gris,Berline,490,1,375000,GPL,100,Manuelle,2150000,12,31250
+BMW,Serie 5,Blanc,Berline,520,1,238000,Essence,272,Automatique,3150000,15,15866
+Toyota,Aygo,Rouge,Citadine,168,1,78000,Essence,70,Automatique,2950000,5,15600
+Seat,Leon,Noir,Compacte,380,1,108000,Diesel,143,Manuelle,6000000,7,15428
+Opel,Astra,Blanc,Compacte,370,1,8500,Essence,130,Automatique,5300000,1,8500
+Ford,Focus,Argent,Compacte,375,1,198000,Essence,182,Manuelle,2400000,12,16500
+Jetour,Dashing,Blanc,SUV,486,1,10000,Essence,197,Automatique,7350000,1,10000
+Fiat,Tipo,Noir,Berline,520,1,42000,Essence,110,Automatique,4550000,2,21000
+Suzuki,Baleno,Blanc,Compacte,320,1,98000,Essence,90,Automatique,3750000,3,32666
+Chevrolet,Spark,Noir,Citadine,170,1,85000,Essence,65,Manuelle,1150000,10,8500
+DS,DS7,Argent,SUV,550,1,102000,Diesel,180,Automatique,7000000,4,25500
+Porsche,Cayenne,Gris,SUV,772,1,85000,Essence,400,Automatique,13800000,14,6071
+Volkswagen,Tiguan,Bleu,SUV,520,1,1420000,Diesel,150,Automatique,6850000,5,284000
+Kia,Sportage,Argent,SUV,546,1,155000,Diesel,177,Automatique,5150000,7,22142
+Dacia,Logan,Gris,Berline,510,1,375000,Essence,75,Manuelle,1450000,11,34090
+Peugeot,3008,Blanc,SUV,520,1,4500,Essence,180,Automatique,8750000,1,4500
+Skoda,Octavia,Gris,Berline,600,1,234000,Essence,143,Manuelle,4250000,7,33428
+Hyundai,Elantra,Noir,Berline,458,1,10000,Essence,115,Automatique,3750000,1,10000
+Renault,Kadjar,Noir,SUV,472,1,72000,Essence,140,Automatique,4750000,5,14400
+Audi,Q7,Gris,SUV,770,1,165000,Essence,252,Automatique,6700000,9,18333
+Mercedes,ML,Noir,SUV,570,1,278000,Diesel,204,Automatique,3250000,12,23166
+Nissan,Sunny,Noir,Berline,490,1,35000,Essence,100,Automatique,3650000,2,17500
+BMW,X6,Blanc,SUV,580,1,138000,Diesel,306,Automatique,5350000,12,11500
+Toyota,Land Cruiser,Noir,SUV,621,1,520000,Diesel,131,Manuelle,4450000,19,27368
+Seat,Ateca,Blanc,SUV,510,1,62000,Essence,150,Automatique,7050000,3,20666
+Opel,Grandland,Bleu,SUV,514,1,2500,Essence,165,Automatique,6300000,1,2500
+Ford,Kuga,Noir,SUV,412,1,3000,Essence,180,Manuelle,6650000,3,1000
+Chery,QQ,Gris,Citadine,180,1,210000,Essence,38,Manuelle,1300000,12,17500
+Fiat,500X,Vert,SUV,350,1,30000,Essence,140,Automatique,4950000,1,30000
+Suzuki,Maruti,Blanc,Citadine,235,1,51000,Essence,45,Manuelle,1050000,16,3187
+Chevrolet,Captiva,Rouge,SUV,477,1,235000,Diesel,184,Manuelle,1600000,10,23500
+Citroen,Berlingo,Blanc,Monospace,700,1,5000,Diesel,180,Automatique,6700000,1,5000
+Volkswagen,Golf,Bleu,Compacte,380,1,35000,Essence,140,Manuelle,2250000,16,2187
+Kia,Rio,Noir,Citadine,325,1,178000,Diesel,112,Manuelle,2250000,15,11866
+Peugeot,206,Gris,Citadine,245,1,265000,Essence,60,Manuelle,1800000,13,20384
+Renault,Clio,Bleu,Citadine,391,1,452000,GPL,75,Manuelle,1350000,19,23789
+Dacia,Logan,Rouge,Berline,510,1,325000,GPL,75,Manuelle,2150000,9,36111
+Fiat,Tipo,Blanc,Compacte,440,1,50000,Essence,100,Manuelle,3550000,4,12500
+Opel,Corsa,Blanc,Citadine,309,1,78000,Essence,70,Manuelle,3050000,4,19500
+Ford,Ranger,Noir,Pickup,1500,1,225000,Diesel,125,Manuelle,2300000,9,25000
+Toyota,Yaris,Noir,Citadine,286,1,285000,Essence,87,Manuelle,2650000,16,17812
+Volkswagen,Polo,Argent,Citadine,280,1,285000,Diesel,80,Manuelle,1950000,18,15833
+Hyundai,i10,Blanc,Citadine,252,1,188000,Essence,87,Manuelle,3150000,8,23500
+Skoda,Fabia,Rouge,Citadine,330,1,152000,Diesel,90,Manuelle,3450000,6,25333
+Nissan,Micra,Gris,Citadine,300,1,215000,Essence,75,Manuelle,1750000,13,16538
+Suzuki,Swift,Noir,Citadine,265,1,78000,Essence,85,Automatique,3250000,4,19500
+Citroen,C3,Rouge,Citadine,300,1,338000,Essence,70,Manuelle,1900000,13,26000
+Peugeot,307,Noir,Compacte,420,1,330000,Diesel,90,Manuelle,2200000,20,16500
+Renault,Megane,Blanc,Compacte,384,1,485000,Diesel,85,Manuelle,1000000,19,25526
+Volkswagen,Passat,Gris,Berline,586,1,235000,Diesel,102,Manuelle,2300000,21,11190
+Opel,Astra,Gris,Compacte,370,1,5500,Essence,130,Automatique,6100000,1,5500
+Ford,Fiesta,Noir,Citadine,292,1,52000,Essence,145,Manuelle,3950000,4,13000
+Toyota,Corolla,Gris,Berline,450,1,375000,Diesel,130,Manuelle,1950000,16,23437
+Kia,Picanto,Blanc,Citadine,255,1,438000,Essence,60,Manuelle,1800000,15,29200
+Hyundai,Accent,Rouge,Compacte,388,1,115000,Diesel,128,Manuelle,2950000,7,16428
+Dacia,Sandero,Noir,Citadine,320,1,6500,Essence,65,Manuelle,3050000,5,1300
+Fiat,Doblo,Gris,Utilitaire,3800,1,95000,Essence,92,Manuelle,3400000,3,31666
+BMW,Serie 3,Blanc,Berline,480,1,35000,Diesel,200,Automatique,12700000,2,17500
+Mercedes,Classe C,Argent,Berline,455,1,102000,Diesel,204,Automatique,3450000,11,9272
+Audi,Q5,Blanc,SUV,550,1,158000,Diesel,170,Automatique,5050000,4,39500
+Volkswagen,Golf,Vert,Compacte,380,1,82000,Essence,110,Manuelle,3150000,8,10250
+Kia,Sportage,Bleu,SUV,546,1,62000,Diesel,180,Automatique,7350000,3,20666
+Peugeot,207,Noir,Citadine,385,1,272000,GPL,75,Manuelle,2250000,13,20923
+Renault,Captur,Argent,SUV,422,1,40000,Diesel,140,Manuelle,5500000,3,13333
+Hyundai,Tucson,Noir,SUV,488,1,6000,Diesel,136,Automatique,8150000,1,6000
+Skoda,Rapid,Gris,Berline,415,1,138000,GPL,110,Manuelle,4100000,6,23000
+Nissan,Qashqai,Blanc,SUV,430,1,200,Essence,140,Manuelle,5350000,2,100
+Toyota,RAV4,Gris,SUV,542,1,235000,Diesel,150,Manuelle,2500000,15,15666
+Seat,Leon,Bleu,Compacte,380,1,142000,Diesel,150,Automatique,5750000,5,28400
+Ford,Focus,Rouge,Compacte,375,1,242000,Essence,105,Automatique,2550000,12,20166
+Opel,Mokka,Blanc,SUV,350,1,16000,Essence,130,Automatique,5100000,2,8000
+Volkswagen,Arteon,Noir,Berline,563,1,25000,Essence,190,Automatique,7700000,2,12500
+Audi,Q2,Gris,SUV,405,1,102000,Diesel,143,Automatique,6250000,5,20400
+BMW,X4,Noir,SUV,525,1,82000,Diesel,190,Automatique,11800000,4,20500
+Mercedes,ML,Gris,SUV,570,1,115000,Diesel,204,Automatique,4450000,13,8846
+Hyundai,i30,Rouge,Compacte,395,1,88000,Essence,120,Manuelle,4050000,4,22000
+Peugeot,208,Noir,Citadine,311,1,87000,Essence,82,Manuelle,5300000,4,21750
+Renault,Clio,Bleu,Citadine,391,1,22000,Diesel,100,Manuelle,5650000,2,11000
+Skoda,Karoq,Gris,SUV,521,1,18000,Essence,150,Automatique,8050000,4,4500
+Kia,Rio,Argent,Citadine,325,1,142000,Essence,100,Manuelle,3450000,6,23666
+Dacia,Duster,Rouge,SUV,445,1,98000,Diesel,105,Automatique,4550000,3,32666
+Toyota,Corolla,Argent,Berline,470,1,4500,Essence,140,Automatique,5350000,1,4500
+Seat,Ateca,Rouge,SUV,510,1,170000,Diesel,143,Automatique,5650000,7,24285
+Ford,Ranger,Gris,Pickup,1500,1,56000,Diesel,205,Automatique,7850000,4,14000
+Chery,Tiggo 4 Pro,Gris,SUV,420,1,18000,Essence,113,Manuelle,4150000,1,18000
+Fiat,500X,Noir,SUV,350,1,10000,Essence,140,Automatique,5300000,1,10000
+Suzuki,Vitara,Gris,SUV,375,1,118000,Diesel,129,Automatique,3400000,10,11800
+Chery,Tiggo 2 Pro,Blanc,SUV,420,1,32000,Essence,102,Automatique,3550000,2,16000
+Mitsubishi,Outlander,Blanc,SUV,477,1,275000,Diesel,140,Manuelle,2150000,18,15277
+Citroen,C3,Noir,Citadine,258,1,106000,Essence,110,Manuelle,3600000,4,26500
+Porsche,Macan,Blanc,SUV,500,1,30000,Essence,252,Automatique,14800000,7,4285
+Cupra,Formentor,Blanc,SUV,450,1,87000,Essence,150,Automatique,6450000,4,21750
+Volkswagen,T-Cross,Gris,SUV,385,1,27000,Essence,110,Automatique,5150000,3,9000
+Kia,Sorento,Argent,SUV,616,1,256000,Diesel,170,Automatique,2600000,15,17066
+Dacia,Jogger,Noir,Monospace,565,1,72000,Essence,100,Manuelle,4550000,4,18000
+Citroen,C Elysee,Gris,Berline,506,1,88000,Essence,72,Manuelle,2850000,13,6769
+Skoda,Kamiq,Noir,SUV,400,1,10000,Essence,150,Automatique,5550000,1,10000
+Hyundai,Accent,Blanc,Compacte,388,1,108000,Essence,100,Manuelle,3050000,9,12000
+Renault,Symbol,Rouge,Berline,450,1,170000,Essence,80,Manuelle,2950000,11,15454
+Audi,A3,Noir,Compacte,380,1,102000,Diesel,150,Automatique,6350000,8,12750
+Mercedes,Classe C,Bleu,Berline,455,1,2200,Diesel,194,Automatique,13200000,1,2200
+BMW,Serie 1,Noir,Compacte,360,1,5000,Essence,136,Automatique,13800000,1,5000
+Toyota,Yaris,Blanc,Citadine,286,1,175000,Essence,100,Manuelle,3350000,11,15909
+Seat,Arona,Noir,SUV,400,1,68000,Essence,110,Automatique,4300000,7,9714
+Opel,Insignia,Rouge,Berline,490,1,108000,Diesel,160,Automatique,3600000,11,9818
+Ford,Puma,Blanc,SUV,456,1,27000,Essence,125,Manuelle,4550000,3,9000
+Geely,Coolray,Argent,SUV,420,1,23000,Essence,177,Automatique,5450000,2,11500
+Fiat,500,Vert,Citadine,185,1,20000,Essence,70,Manuelle,260000,9,2222
+Suzuki,Celerio,Blanc,Citadine,254,1,120000,Essence,68,Automatique,1950000,13,9230
+Chevrolet,Spark,Rouge,Citadine,170,1,295000,Essence,68,Manuelle,1450000,13,22692
+Mitsubishi,L200,Gris,Pickup,1100,1,142000,Diesel,150,Automatique,5400000,5,28400
+Citroen,C5 Aircross,Noir,SUV,550,1,5000,Essence,180,Automatique,5950000,1,5000
+Porsche,Cayenne,Argent,SUV,772,1,195000,Diesel,265,Automatique,6150000,11,17727
+Volkswagen,Golf,Blanc,Compacte,380,1,92000,Diesel,110,Manuelle,3100000,6,15333
+Kia,Carens,Gris,Monospace,492,1,134000,Diesel,130,Manuelle,2980000,8,16750
+Dacia,Sandero Stepway,Noir,SUV,320,1,88000,Diesel,90,Manuelle,3250000,5,17600
+Peugeot,5008,Argent,SUV,680,0,42000,Essence,180,Automatique,7200000,2,21000
+Skoda,Kodiaq,Noir,SUV,630,1,62000,Diesel,200,Automatique,8800000,4,15500
+Hyundai,Creta,Gris,SUV,402,1,8500,Essence,128,Automatique,5850000,1,8500
+Renault,Megane,Blanc,Compacte,384,1,115000,Diesel,110,Manuelle,3300000,8,14375
+Audi,Q5,Gris,SUV,550,1,78000,Diesel,204,Automatique,9200000,4,19500
+Mercedes,GLA,Blanc,SUV,435,1,68000,Diesel,204,Automatique,8650000,6,11333
+Nissan,Juke,Noir,SUV,422,1,45000,Essence,117,Manuelle,5050000,2,22500
+BMW,X5,Argent,SUV,645,1,162000,Diesel,230,Automatique,3850000,9,18000
+Toyota,RAV4,Gris,SUV,542,1,178000,Essence,170,Automatique,3950000,10,17800
+Seat,Ateca,Blanc,SUV,510,1,58000,Essence,150,Manuelle,5950000,2,29000
+Opel,Mokka,Bleu,SUV,350,1,42000,Essence,130,Automatique,4800000,3,14000
+Ford,Kuga,Gris,SUV,412,1,86000,Diesel,120,Automatique,5100000,6,14333
+Geely,Coolray,Noir,SUV,420,1,42000,Essence,177,Automatique,5050000,2,21000
+Fiat,Tipo,Rouge,Berline,520,1,25000,Essence,110,Automatique,4600000,2,12500
+Suzuki,Baleno,Noir,Compacte,320,1,18000,Essence,90,Automatique,4100000,1,18000
+Chevrolet,Aveo,Gris,Compacte,370,1,420000,Essence,85,Manuelle,1980000,13,32307
+Citroen,C4,Blanc,Compacte,380,1,112000,Essence,120,Manuelle,2600000,8,14000
+Land Rover,Evoque,Argent,SUV,472,1,345000,Diesel,192,Automatique,3350000,11,31363
+DS,DS7,Blanc,SUV,550,1,102000,Diesel,130,Automatique,6200000,4,25500
+Cupra,Formentor,Gris,SUV,450,1,25000,Essence,150,Automatique,8650000,2,12500
+Volkswagen,T-Cross,Rouge,SUV,385,1,31000,Essence,110,Automatique,5150000,3,10333
+Kia,Seltos,Noir,SUV,392,1,12000,Essence,115,Automatique,4050000,1,12000
+Dacia,Jogger,Gris,Monospace,565,1,28000,Essence,100,Manuelle,4350000,2,14000
+Peugeot,2008,Noir,SUV,434,1,56000,Essence,115,Automatique,4700000,6,9333
+Skoda,Kamiq,Gris,SUV,400,1,15000,Essence,115,Automatique,6550000,1,15000
+Hyundai,Santa Fe,Noir,SUV,571,1,148000,Diesel,197,Automatique,5250000,9,16444
+Renault,Arkana,Blanc,SUV,480,1,89000,Essence,140,Automatique,5150000,3,29666
+Audi,A4,Blanc,Berline,480,1,485000,Diesel,140,Manuelle,1900000,15,32333
+Mercedes,Classe A,Gris,Compacte,370,1,178000,Diesel,156,Automatique,3400000,8,22250
+Nissan,Patrol,Noir,SUV,468,1,102000,Diesel,158,Manuelle,3450000,16,6375
+BMW,X3,Blanc,SUV,550,1,255000,Diesel,177,Manuelle,2950000,16,15937
+Toyota,Hilux,Blanc,Pickup,1500,1,450000,Diesel,120,Manuelle,4700000,10,45000
+Seat,Leon,Argent,Compacte,380,1,92000,Diesel,143,Manuelle,4700000,10,9200
+Opel,Grandland,Gris,SUV,514,1,42000,Essence,165,Automatique,5450000,3,14000
+Ford,Focus,Gris,Compacte,375,1,345000,Essence,100,Manuelle,1650000,16,21562
+Jetour,X70 Plus,Noir,SUV,600,1,5000,Essence,197,Automatique,8950000,1,5000
+Fiat,500X,Rouge,SUV,350,1,32000,Essence,140,Automatique,4650000,1,32000
+Suzuki,Celerio,Noir,Citadine,254,1,286000,Essence,68,Manuelle,165000,14,20428
+Chevrolet,Captiva,Gris,SUV,477,1,42000,Essence,150,Automatique,4350000,4,10500
+Land Rover,Discovery,Blanc,SUV,550,1,96000,Diesel,180,Automatique,5900000,8,12000
+Volkswagen,Polo,Bleu,Citadine,280,1,64000,Essence,90,Manuelle,3800000,7,9142
+Kia,Sorento,Gris,SUV,616,1,61000,Diesel,200,Automatique,7300000,9,6777
+Dacia,Lodgy,Noir,Monospace,827,1,35000,Diesel,90,Manuelle,4450000,5,7000
+Peugeot,Rifter,Blanc,Utilitaire,3300,1,2000,Diesel,92,Manuelle,7650000,1,2000
+Skoda,Scala,Gris,Compacte,467,1,51000,Essence,115,Automatique,3950000,6,8500
+Hyundai,Accent,Bleu,Compacte,388,1,620000,Essence,100,Manuelle,2150000,19,32631
+Renault,Symbol,Noir,Berline,450,1,51000,Essence,80,Manuelle,3500000,7,7285
+Audi,Q3,Blanc,SUV,450,1,189000,Diesel,177,Automatique,7050000,6,31500
+Mercedes,GLC,Noir,SUV,550,1,142000,Diesel,170,Automatique,6850000,8,17750
+Nissan,Navara,Gris,Pickup,1100,1,286000,Diesel,171,Manuelle,2450000,13,22000
+BMW,Serie 1,Blanc,Compacte,360,1,102000,Essence,136,Automatique,6050000,4,25500
+Toyota,Yaris,Bleu,Citadine,286,1,345000,GPL,86,Manuelle,1850000,20,17250
+Seat,Arona,Gris,SUV,400,1,29000,Essence,110,Automatique,4050000,4,7250
+Opel,Insignia,Blanc,Berline,490,1,245000,Diesel,130,Automatique,2450000,12,20416
+Ford,Puma,Noir,SUV,456,1,36000,Essence,125,Manuelle,4400000,3,12000
+Geely,Coolray,Bleu,SUV,420,1,45000,Essence,177,Automatique,5250000,2,22500
+Fiat,500,Noir,Citadine,185,1,158000,Essence,70,Manuelle,2400000,9,17555
+Suzuki,Swift,Blanc,Citadine,265,1,345000,GPL,85,Manuelle,2200000,12,28750
+Chevrolet,Sail,Gris,Compacte,370,1,255000,Essence,97,Manuelle,1700000,12,21250
+Mitsubishi,L200,Noir,Pickup,1100,1,125000,Diesel,150,Manuelle,5200000,5,25000
+Land Rover,Range Rover,Gris,SUV,550,1,95000,Diesel,211,Automatique,5300000,8,11875
+Volkswagen,Golf,Gris,Compacte,380,1,142000,Diesel,110,Manuelle,3350000,8,17750
+Kia,Picanto,Bleu,Citadine,255,1,152000,Essence,65,Automatique,3500000,8,19000
+Dacia,Sandero Stepway,Blanc,SUV,320,1,18000,Essence,110,Manuelle,5300000,1,18000
+Peugeot,208,Rouge,Citadine,311,1,168000,Essence,92,Manuelle,3450000,8,21000
+Skoda,Fabia,Bleu,Citadine,330,1,245000,Essence,65,Manuelle,2550000,10,24500
+Hyundai,i20,Blanc,Citadine,326,1,18000,Essence,100,Automatique,4700000,1,18000
+Renault,Clio,Argent,Citadine,391,1,102000,Diesel,85,Manuelle,3700000,6,17000
+Audi,A1,Noir,Citadine,335,1,85000,Essence,150,Automatique,6450000,3,28333
+Mercedes,Classe E,Gris,Berline,540,1,62000,Diesel,220,Automatique,7950000,7,8857
+Nissan,Sunny,Gris,Berline,490,1,375000,GPL,100,Manuelle,2150000,12,31250
+BMW,Serie 5,Blanc,Berline,520,1,238000,Essence,272,Automatique,3150000,15,15866
+Toyota,Aygo,Rouge,Citadine,168,1,78000,Essence,70,Automatique,2950000,5,15600
+Seat,Leon,Noir,Compacte,380,1,108000,Diesel,143,Manuelle,6000000,7,15428
+Opel,Astra,Blanc,Compacte,370,1,8500,Essence,130,Automatique,5300000,1,8500
+Ford,Focus,Argent,Compacte,375,1,198000,Essence,182,Manuelle,2400000,12,16500
+Jetour,Dashing,Blanc,SUV,486,1,10000,Essence,197,Automatique,7350000,1,10000
+Fiat,Tipo,Noir,Berline,520,1,42000,Essence,110,Automatique,4550000,2,21000
+Suzuki,Baleno,Blanc,Compacte,320,1,98000,Essence,90,Automatique,3750000,3,32666
+Chevrolet,Spark,Noir,Citadine,170,1,85000,Essence,65,Manuelle,1150000,10,8500
+DS,DS7,Argent,SUV,550,1,102000,Diesel,180,Automatique,7000000,4,25500
+Porsche,Cayenne,Gris,SUV,772,1,85000,Essence,400,Automatique,13800000,14,6071
+Volkswagen,Tiguan,Bleu,SUV,520,1,1420000,Diesel,150,Automatique,6850000,5,284000
+Kia,Sportage,Argent,SUV,546,1,155000,Diesel,177,Automatique,5150000,7,22142
+Dacia,Logan,Gris,Berline,510,1,375000,Essence,75,Manuelle,1450000,11,34090
+Peugeot,3008,Blanc,SUV,520,1,4500,Essence,180,Automatique,8750000,1,4500
+Skoda,Octavia,Gris,Berline,600,1,234000,Essence,143,Manuelle,4250000,7,33428
+Hyundai,Elantra,Noir,Berline,458,1,10000,Essence,115,Automatique,3750000,1,10000
+Renault,Kadjar,Noir,SUV,472,1,72000,Essence,140,Automatique,4750000,5,14400
+Audi,Q7,Gris,SUV,770,1,165000,Essence,252,Automatique,6700000,9,18333
+Mercedes,ML,Noir,SUV,570,1,278000,Diesel,204,Automatique,3250000,12,23166
+Nissan,Sunny,Noir,Berline,490,1,35000,Essence,100,Automatique,3650000,2,17500
+BMW,X6,Blanc,SUV,580,1,138000,Diesel,306,Automatique,5350000,12,11500
+Toyota,Land Cruiser,Noir,SUV,621,1,520000,Diesel,131,Manuelle,4450000,19,27368
+Seat,Ateca,Blanc,SUV,510,1,62000,Essence,150,Automatique,7050000,3,20666
+Opel,Grandland,Bleu,SUV,514,1,2500,Essence,165,Automatique,6300000,1,2500
+Ford,Kuga,Noir,SUV,412,1,3000,Essence,180,Manuelle,6650000,3,1000
+Chery,QQ,Gris,Citadine,180,1,210000,Essence,38,Manuelle,1300000,12,17500
+Fiat,500X,Vert,SUV,350,1,30000,Essence,140,Automatique,4950000,1,30000
+Suzuki,Maruti,Blanc,Citadine,235,1,51000,Essence,45,Manuelle,1050000,16,3187
+Chevrolet,Captiva,Rouge,SUV,477,1,235000,Diesel,184,Manuelle,1600000,10,23500
+Citroen,Berlingo,Blanc,Monospace,700,1,5000,Diesel,180,Automatique,6700000,1,5000
+Volkswagen,Golf,Bleu,Compacte,380,1,35000,Essence,140,Manuelle,2250000,16,2187
+Kia,Rio,Noir,Citadine,325,1,178000,Diesel,112,Manuelle,2250000,15,11866
+Peugeot,206,Gris,Citadine,245,1,265000,Essence,60,Manuelle,1800000,13,20384
+Renault,Clio,Bleu,Citadine,391,1,452000,GPL,75,Manuelle,1350000,19,23789
+Dacia,Logan,Rouge,Berline,510,1,325000,GPL,75,Manuelle,2150000,9,36111
+Fiat,Tipo,Blanc,Compacte,440,1,50000,Essence,100,Manuelle,3550000,4,12500
+Opel,Corsa,Blanc,Citadine,309,1,78000,Essence,70,Manuelle,3050000,4,19500
+Ford,Ranger,Noir,Pickup,1500,1,225000,Diesel,125,Manuelle,2300000,9,25000
+Toyota,Yaris,Noir,Citadine,286,1,285000,Essence,87,Manuelle,2650000,16,17812
+Volkswagen,Polo,Argent,Citadine,280,1,285000,Diesel,80,Manuelle,1950000,18,15833
+Hyundai,i10,Blanc,Citadine,252,1,188000,Essence,87,Manuelle,3150000,8,23500
+Skoda,Fabia,Rouge,Citadine,330,1,152000,Diesel,90,Manuelle,3450000,6,25333
+Nissan,Micra,Gris,Citadine,300,1,215000,Essence,75,Manuelle,1750000,13,16538
+Suzuki,Swift,Noir,Citadine,265,1,78000,Essence,85,Automatique,3250000,4,19500
+Citroen,C3,Rouge,Citadine,300,1,338000,Essence,70,Manuelle,1900000,13,26000
+Peugeot,307,Noir,Compacte,420,1,330000,Diesel,90,Manuelle,2200000,20,16500
+Renault,Megane,Blanc,Compacte,384,1,485000,Diesel,85,Manuelle,1000000,19,25526
+Volkswagen,Passat,Gris,Berline,586,1,235000,Diesel,102,Manuelle,2300000,21,11190
+Opel,Astra,Gris,Compacte,370,1,5500,Essence,130,Automatique,6100000,1,5500
+Ford,Fiesta,Noir,Citadine,292,1,52000,Essence,145,Manuelle,3950000,4,13000
+Toyota,Corolla,Gris,Berline,450,1,375000,Diesel,130,Manuelle,1950000,16,23437
+Kia,Picanto,Blanc,Citadine,255,1,438000,Essence,60,Manuelle,1800000,15,29200
+Hyundai,Accent,Rouge,Compacte,388,1,115000,Diesel,128,Manuelle,2950000,7,16428
+Dacia,Sandero,Noir,Citadine,320,1,6500,Essence,65,Manuelle,3050000,5,1300
+Fiat,Doblo,Gris,Utilitaire,3800,1,95000,Essence,92,Manuelle,3400000,3,31666
+BMW,Serie 3,Blanc,Berline,480,1,35000,Diesel,200,Automatique,12700000,2,17500
+Mercedes,Classe C,Argent,Berline,455,1,102000,Diesel,204,Automatique,3450000,11,9272
+Audi,Q5,Blanc,SUV,550,1,158000,Diesel,170,Automatique,5050000,4,39500
+Volkswagen,Golf,Vert,Compacte,380,1,82000,Essence,110,Manuelle,3150000,8,10250
+Kia,Sportage,Bleu,SUV,546,1,62000,Diesel,180,Automatique,7350000,3,20666
+Peugeot,207,Noir,Citadine,385,1,272000,GPL,75,Manuelle,2250000,13,20923
+Renault,Captur,Argent,SUV,422,1,40000,Diesel,140,Manuelle,5500000,3,13333
+Hyundai,Tucson,Noir,SUV,488,1,6000,Diesel,136,Automatique,8150000,1,6000
+Skoda,Rapid,Gris,Berline,415,1,138000,GPL,110,Manuelle,4100000,6,23000
+Nissan,Qashqai,Blanc,SUV,430,1,200,Essence,140,Manuelle,5350000,2,100
+Toyota,RAV4,Gris,SUV,542,1,235000,Diesel,150,Manuelle,2500000,15,15666
+Seat,Leon,Bleu,Compacte,380,1,142000,Diesel,150,Automatique,5750000,5,28400
+Ford,Focus,Rouge,Compacte,375,1,242000,Essence,105,Automatique,2550000,12,20166
+Opel,Mokka,Blanc,SUV,350,1,16000,Essence,130,Automatique,5100000,2,8000
+Volkswagen,Arteon,Noir,Berline,563,1,25000,Essence,190,Automatique,7700000,2,12500
+Audi,Q2,Gris,SUV,405,1,102000,Diesel,143,Automatique,6250000,5,20400
+BMW,X4,Noir,SUV,525,1,82000,Diesel,190,Automatique,11800000,4,20500
+Mercedes,ML,Gris,SUV,570,1,115000,Diesel,204,Automatique,4450000,13,8846
+Hyundai,i30,Rouge,Compacte,395,1,88000,Essence,120,Manuelle,4050000,4,22000
+Peugeot,208,Noir,Citadine,311,1,87000,Essence,82,Manuelle,5300000,4,21750
+Renault,Clio,Bleu,Citadine,391,1,22000,Diesel,100,Manuelle,5650000,2,11000
+Skoda,Karoq,Gris,SUV,521,1,18000,Essence,150,Automatique,8050000,4,4500
+Kia,Rio,Argent,Citadine,325,1,142000,Essence,100,Manuelle,3450000,6,23666
+Dacia,Duster,Rouge,SUV,445,1,98000,Diesel,105,Automatique,4550000,3,32666
+Toyota,Corolla,Argent,Berline,470,1,4500,Essence,140,Automatique,5350000,1,4500
+Seat,Ateca,Rouge,SUV,510,1,170000,Diesel,143,Automatique,5650000,7,24285
+Ford,Ranger,Gris,Pickup,1500,1,56000,Diesel,205,Automatique,7850000,4,14000
+Chery,Tiggo 4 Pro,Gris,SUV,420,1,18000,Essence,113,Manuelle,4150000,1,18000
+Fiat,500X,Noir,SUV,350,1,10000,Essence,140,Automatique,5300000,1,10000
+Suzuki,Vitara,Gris,SUV,375,1,118000,Diesel,129,Automatique,3400000,10,11800
+Chery,Tiggo 2 Pro,Blanc,SUV,420,1,32000,Essence,102,Automatique,3550000,2,16000
+Mitsubishi,Outlander,Blanc,SUV,477,1,275000,Diesel,140,Manuelle,2150000,18,15277
+Citroen,C3,Noir,Citadine,258,1,106000,Essence,110,Manuelle,3600000,4,26500
+Porsche,Macan,Blanc,SUV,500,1,30000,Essence,252,Automatique,14800000,7,4285
+Cupra,Formentor,Blanc,SUV,450,1,87000,Essence,150,Automatique,6450000,4,21750
+Volkswagen,T-Cross,Gris,SUV,385,1,27000,Essence,110,Automatique,5150000,3,9000
+Kia,Sorento,Argent,SUV,616,1,256000,Diesel,170,Automatique,2600000,15,17066
+Dacia,Jogger,Noir,Monospace,565,1,72000,Essence,100,Manuelle,4550000,4,18000
+Citroen,C Elysee,Gris,Berline,506,1,88000,Essence,72,Manuelle,2850000,13,6769
+Skoda,Kamiq,Noir,SUV,400,1,10000,Essence,150,Automatique,5550000,1,10000
+Hyundai,Accent,Blanc,Compacte,388,1,108000,Essence,100,Manuelle,3050000,9,12000
+Renault,Symbol,Rouge,Berline,450,1,170000,Essence,80,Manuelle,2950000,11,15454
+Audi,A3,Noir,Compacte,380,1,102000,Diesel,150,Automatique,6350000,8,12750
+Mercedes,Classe C,Bleu,Berline,455,1,2200,Diesel,194,Automatique,13200000,1,2200
+BMW,Serie 1,Noir,Compacte,360,1,5000,Essence,136,Automatique,13800000,1,5000
+Toyota,Yaris,Blanc,Citadine,286,1,175000,Essence,100,Manuelle,3350000,11,15909
+Seat,Arona,Noir,SUV,400,1,68000,Essence,110,Automatique,4300000,7,9714
+Opel,Insignia,Rouge,Berline,490,1,108000,Diesel,160,Automatique,3600000,11,9818
+Ford,Puma,Blanc,SUV,456,1,27000,Essence,125,Manuelle,4550000,3,9000
+Geely,Coolray,Argent,SUV,420,1,23000,Essence,177,Automatique,5450000,2,11500
+Fiat,500,Vert,Citadine,185,1,20000,Essence,70,Manuelle,260000,9,2222
+Suzuki,Celerio,Blanc,Citadine,254,1,120000,Essence,68,Automatique,1950000,13,9230
+Chevrolet,Spark,Rouge,Citadine,170,1,295000,Essence,68,Manuelle,1450000,13,22692
+Mitsubishi,L200,Gris,Pickup,1100,1,142000,Diesel,150,Automatique,5400000,5,28400
+Citroen,C5 Aircross,Noir,SUV,550,1,5000,Essence,180,Automatique,5950000,1,5000
+Porsche,Cayenne,Argent,SUV,772,1,195000,Diesel,265,Automatique,6150000,11,17727
+Volkswagen,Golf,Blanc,Compacte,380,1,92000,Diesel,110,Manuelle,3100000,6,15333
+Kia,Carens,Gris,Monospace,492,1,134000,Diesel,130,Manuelle,2980000,8,16750
+Dacia,Sandero Stepway,Noir,SUV,320,1,88000,Diesel,90,Manuelle,3250000,5,17600
+Peugeot,5008,Argent,SUV,680,0,42000,Essence,180,Automatique,7200000,2,21000
+Skoda,Kodiaq,Noir,SUV,630,1,62000,Diesel,200,Automatique,8800000,4,15500
+Hyundai,Creta,Gris,SUV,402,1,8500,Essence,128,Automatique,5850000,1,8500
+Renault,Megane,Blanc,Compacte,384,1,115000,Diesel,110,Manuelle,3300000,8,14375
+Audi,Q5,Gris,SUV,550,1,78000,Diesel,204,Automatique,9200000,4,19500
+Mercedes,GLA,Blanc,SUV,435,1,68000,Diesel,204,Automatique,8650000,6,11333
+Nissan,Juke,Noir,SUV,422,1,45000,Essence,117,Manuelle,5050000,2,22500
+BMW,X5,Argent,SUV,645,1,162000,Diesel,230,Automatique,3850000,9,18000
+Toyota,RAV4,Gris,SUV,542,1,178000,Essence,170,Automatique,3950000,10,17800
+Seat,Ateca,Blanc,SUV,510,1,58000,Essence,150,Manuelle,5950000,2,29000
+Opel,Mokka,Bleu,SUV,350,1,42000,Essence,130,Automatique,4800000,3,14000
+Ford,Kuga,Gris,SUV,412,1,86000,Diesel,120,Automatique,5100000,6,14333
+Geely,Coolray,Noir,SUV,420,1,42000,Essence,177,Automatique,5050000,2,21000
+Fiat,Tipo,Rouge,Berline,520,1,25000,Essence,110,Automatique,4600000,2,12500
+Suzuki,Baleno,Noir,Compacte,320,1,18000,Essence,90,Automatique,4100000,1,18000
+Chevrolet,Aveo,Gris,Compacte,370,1,420000,Essence,85,Manuelle,1980000,13,32307
+Citroen,C4,Blanc,Compacte,380,1,112000,Essence,120,Manuelle,2600000,8,14000
+Land Rover,Evoque,Argent,SUV,472,1,345000,Diesel,192,Automatique,3350000,11,31363
+DS,DS7,Blanc,SUV,550,1,102000,Diesel,130,Automatique,6200000,4,25500
+Cupra,Formentor,Gris,SUV,450,1,25000,Essence,150,Automatique,8650000,2,12500
+Volkswagen,T-Cross,Rouge,SUV,385,1,31000,Essence,110,Automatique,5150000,3,10333
+Kia,Seltos,Noir,SUV,392,1,12000,Essence,115,Automatique,4050000,1,12000
+Dacia,Jogger,Gris,Monospace,565,1,28000,Essence,100,Manuelle,4350000,2,14000
+Peugeot,2008,Noir,SUV,434,1,56000,Essence,115,Automatique,4700000,6,9333
+Skoda,Kamiq,Gris,SUV,400,1,15000,Essence,115,Automatique,6550000,1,15000
+Hyundai,Santa Fe,Noir,SUV,571,1,148000,Diesel,197,Automatique,5250000,9,16444
+Renault,Arkana,Blanc,SUV,480,1,89000,Essence,140,Automatique,5150000,3,29666
+Audi,A4,Blanc,Berline,480,1,485000,Diesel,140,Manuelle,1900000,15,32333
+Mercedes,Classe A,Gris,Compacte,370,1,178000,Diesel,156,Automatique,3400000,8,22250
+Nissan,Patrol,Noir,SUV,468,1,102000,Diesel,158,Manuelle,3450000,16,6375
+BMW,X3,Blanc,SUV,550,1,255000,Diesel,177,Manuelle,2950000,16,15937
+Toyota,Hilux,Blanc,Pickup,1500,1,450000,Diesel,120,Manuelle,4700000,10,45000
+Seat,Leon,Argent,Compacte,380,1,92000,Diesel,143,Manuelle,4700000,10,9200
+Opel,Grandland,Gris,SUV,514,1,42000,Essence,165,Automatique,5450000,3,14000
+Ford,Focus,Gris,Compacte,375,1,345000,Essence,100,Manuelle,1650000,16,21562
+Jetour,X70 Plus,Noir,SUV,600,1,5000,Essence,197,Automatique,8950000,1,5000
+Fiat,500X,Rouge,SUV,350,1,32000,Essence,140,Automatique,4650000,1,32000
+Suzuki,Celerio,Noir,Citadine,254,1,286000,Essence,68,Manuelle,165000,14,20428
+Chevrolet,Captiva,Gris,SUV,477,1,42000,Essence,150,Automatique,4350000,4,10500
+Land Rover,Discovery,Blanc,SUV,550,1,96000,Diesel,180,Automatique,5900000,8,12000
+Volkswagen,Polo,Bleu,Citadine,280,1,64000,Essence,90,Manuelle,3800000,7,9142
+Kia,Sorento,Gris,SUV,616,1,61000,Diesel,200,Automatique,7300000,9,6777
+Dacia,Lodgy,Noir,Monospace,827,1,35000,Diesel,90,Manuelle,4450000,5,7000
+Peugeot,Rifter,Blanc,Utilitaire,3300,1,2000,Diesel,92,Manuelle,7650000,1,2000
+Skoda,Scala,Gris,Compacte,467,1,51000,Essence,115,Automatique,3950000,6,8500
+Hyundai,Accent,Bleu,Compacte,388,1,620000,Essence,100,Manuelle,2150000,19,32631
+Renault,Symbol,Noir,Berline,450,1,51000,Essence,80,Manuelle,3500000,7,7285
+Audi,Q3,Blanc,SUV,450,1,189000,Diesel,177,Automatique,7050000,6,31500
+Mercedes,GLC,Noir,SUV,550,1,142000,Diesel,170,Automatique,6850000,8,17750
+Nissan,Navara,Gris,Pickup,1100,1,286000,Diesel,171,Manuelle,2450000,13,22000
+BMW,Serie 1,Blanc,Compacte,360,1,102000,Essence,136,Automatique,6050000,4,25500
+Toyota,Yaris,Bleu,Citadine,286,1,345000,GPL,86,Manuelle,1850000,20,17250
+Seat,Arona,Gris,SUV,400,1,29000,Essence,110,Automatique,4050000,4,7250
+Opel,Insignia,Blanc,Berline,490,1,245000,Diesel,130,Automatique,2450000,12,20416
+Ford,Puma,Noir,SUV,456,1,36000,Essence,125,Manuelle,4400000,3,12000
+Geely,Coolray,Bleu,SUV,420,1,45000,Essence,177,Automatique,5250000,2,22500
+Fiat,500,Noir,Citadine,185,1,158000,Essence,70,Manuelle,2400000,9,17555
+Suzuki,Swift,Blanc,Citadine,265,1,345000,GPL,85,Manuelle,2200000,12,28750
+Chevrolet,Sail,Gris,Compacte,370,1,255000,Essence,97,Manuelle,1700000,12,21250
+Mitsubishi,L200,Noir,Pickup,1100,1,125000,Diesel,150,Manuelle,5200000,5,25000
+Land Rover,Range Rover,Gris,SUV,550,1,95000,Diesel,211,Automatique,5300000,8,11875
+Volkswagen,Golf,Gris,Compacte,380,1,142000,Diesel,110,Manuelle,3350000,8,17750
+Kia,Picanto,Bleu,Citadine,255,1,152000,Essence,65,Automatique,3500000,8,19000
+Dacia,Sandero Stepway,Blanc,SUV,320,1,18000,Essence,110,Manuelle,5300000,1,18000
+Peugeot,208,Rouge,Citadine,311,1,168000,Essence,92,Manuelle,3450000,8,21000
+Skoda,Fabia,Bleu,Citadine,330,1,245000,Essence,65,Manuelle,2550000,10,24500
+Hyundai,i20,Blanc,Citadine,326,1,18000,Essence,100,Automatique,4700000,1,18000
+Renault,Clio,Argent,Citadine,391,1,102000,Diesel,85,Manuelle,3700000,6,17000
+Audi,A1,Noir,Citadine,335,1,85000,Essence,150,Automatique,6450000,3,28333
+Mercedes,Classe E,Gris,Berline,540,1,62000,Diesel,220,Automatique,7950000,7,8857
+Nissan,Sunny,Gris,Berline,490,1,375000,GPL,100,Manuelle,2150000,12,31250
+BMW,Serie 5,Blanc,Berline,520,1,238000,Essence,272,Automatique,3150000,15,15866
+Toyota,Aygo,Rouge,Citadine,168,1,78000,Essence,70,Automatique,2950000,5,15600
+Seat,Leon,Noir,Compacte,380,1,108000,Diesel,143,Manuelle,6000000,7,15428
+Opel,Astra,Blanc,Compacte,370,1,8500,Essence,130,Automatique,5300000,1,8500
+Ford,Focus,Argent,Compacte,375,1,198000,Essence,182,Manuelle,2400000,12,16500
+Jetour,Dashing,Blanc,SUV,486,1,10000,Essence,197,Automatique,7350000,1,10000
+Fiat,Tipo,Noir,Berline,520,1,42000,Essence,110,Automatique,4550000,2,21000
+Suzuki,Baleno,Blanc,Compacte,320,1,98000,Essence,90,Automatique,3750000,3,32666
+Chevrolet,Spark,Noir,Citadine,170,1,85000,Essence,65,Manuelle,1150000,10,8500
+DS,DS7,Argent,SUV,550,1,102000,Diesel,180,Automatique,7000000,4,25500
+Porsche,Cayenne,Gris,SUV,772,1,85000,Essence,400,Automatique,13800000,14,6071
+Volkswagen,Tiguan,Bleu,SUV,520,1,1420000,Diesel,150,Automatique,6850000,5,284000
+Kia,Sportage,Argent,SUV,546,1,155000,Diesel,177,Automatique,5150000,7,22142
+Dacia,Logan,Gris,Berline,510,1,375000,Essence,75,Manuelle,1450000,11,34090
+Peugeot,3008,Blanc,SUV,520,1,4500,Essence,180,Automatique,8750000,1,4500
+Skoda,Octavia,Gris,Berline,600,1,234000,Essence,143,Manuelle,4250000,7,33428
+Hyundai,Elantra,Noir,Berline,458,1,10000,Essence,115,Automatique,3750000,1,10000
+Renault,Kadjar,Noir,SUV,472,1,72000,Essence,140,Automatique,4750000,5,14400
+Audi,Q7,Gris,SUV,770,1,165000,Essence,252,Automatique,6700000,9,18333
+Mercedes,ML,Noir,SUV,570,1,278000,Diesel,204,Automatique,3250000,12,23166
+Nissan,Sunny,Noir,Berline,490,1,35000,Essence,100,Automatique,3650000,2,17500
+BMW,X6,Blanc,SUV,580,1,138000,Diesel,306,Automatique,5350000,12,11500
+Toyota,Land Cruiser,Noir,SUV,621,1,520000,Diesel,131,Manuelle,4450000,19,27368
+Seat,Ateca,Blanc,SUV,510,1,62000,Essence,150,Automatique,7050000,3,20666
+Opel,Grandland,Bleu,SUV,514,1,2500,Essence,165,Automatique,6300000,1,2500
+Ford,Kuga,Noir,SUV,412,1,3000,Essence,180,Manuelle,6650000,3,1000
+Chery,QQ,Gris,Citadine,180,1,210000,Essence,38,Manuelle,1300000,12,17500
+Fiat,500X,Vert,SUV,350,1,30000,Essence,140,Automatique,4950000,1,30000
+Suzuki,Maruti,Blanc,Citadine,235,1,51000,Essence,45,Manuelle,1050000,16,3187
+Chevrolet,Captiva,Rouge,SUV,477,1,235000,Diesel,184,Manuelle,1600000,10,23500
+Citroen,Berlingo,Blanc,Monospace,700,1,5000,Diesel,180,Automatique,6700000,1,5000
+Volkswagen,Golf,Bleu,Compacte,380,1,35000,Essence,140,Manuelle,2250000,16,2187
+Kia,Rio,Noir,Citadine,325,1,178000,Diesel,112,Manuelle,2250000,15,11866
+Peugeot,206,Gris,Citadine,245,1,265000,Essence,60,Manuelle,1800000,13,20384
+Renault,Clio,Bleu,Citadine,391,1,452000,GPL,75,Manuelle,1350000,19,23789
+Dacia,Logan,Rouge,Berline,510,1,325000,GPL,75,Manuelle,2150000,9,36111
+Fiat,Tipo,Blanc,Compacte,440,1,50000,Essence,100,Manuelle,3550000,4,12500
+Opel,Corsa,Blanc,Citadine,309,1,78000,Essence,70,Manuelle,3050000,4,19500
+Ford,Ranger,Noir,Pickup,1500,1,225000,Diesel,125,Manuelle,2300000,9,25000
+Toyota,Yaris,Noir,Citadine,286,1,285000,Essence,87,Manuelle,2650000,16,17812
+Volkswagen,Polo,Argent,Citadine,280,1,285000,Diesel,80,Manuelle,1950000,18,15833
+Hyundai,i10,Blanc,Citadine,252,1,188000,Essence,87,Manuelle,3150000,8,23500
+Skoda,Fabia,Rouge,Citadine,330,1,152000,Diesel,90,Manuelle,3450000,6,25333
+Nissan,Micra,Gris,Citadine,300,1,215000,Essence,75,Manuelle,1750000,13,16538
+Suzuki,Swift,Noir,Citadine,265,1,78000,Essence,85,Automatique,3250000,4,19500
+Citroen,C3,Rouge,Citadine,300,1,338000,Essence,70,Manuelle,1900000,13,26000
+Peugeot,307,Noir,Compacte,420,1,330000,Diesel,90,Manuelle,2200000,20,16500
+Renault,Megane,Blanc,Compacte,384,1,485000,Diesel,85,Manuelle,1000000,19,25526
+Volkswagen,Passat,Gris,Berline,586,1,235000,Diesel,102,Manuelle,2300000,21,11190
+Opel,Astra,Gris,Compacte,370,1,5500,Essence,130,Automatique,6100000,1,5500
+Ford,Fiesta,Noir,Citadine,292,1,52000,Essence,145,Manuelle,3950000,4,13000
+Toyota,Corolla,Gris,Berline,450,1,375000,Diesel,130,Manuelle,1950000,16,23437
+Kia,Picanto,Blanc,Citadine,255,1,438000,Essence,60,Manuelle,1800000,15,29200
+Hyundai,Accent,Rouge,Compacte,388,1,115000,Diesel,128,Manuelle,2950000,7,16428
+Dacia,Sandero,Noir,Citadine,320,1,6500,Essence,65,Manuelle,3050000,5,1300
+Fiat,Doblo,Gris,Utilitaire,3800,1,95000,Essence,92,Manuelle,3400000,3,31666
+BMW,Serie 3,Blanc,Berline,480,1,35000,Diesel,200,Automatique,12700000,2,17500
+Mercedes,Classe C,Argent,Berline,455,1,102000,Diesel,204,Automatique,3450000,11,9272
+Audi,Q5,Blanc,SUV,550,1,158000,Diesel,170,Automatique,5050000,4,39500
+Volkswagen,Golf,Vert,Compacte,380,1,82000,Essence,110,Manuelle,3150000,8,10250
+Kia,Sportage,Bleu,SUV,546,1,62000,Diesel,180,Automatique,7350000,3,20666
+Peugeot,207,Noir,Citadine,385,1,272000,GPL,75,Manuelle,2250000,13,20923
+Renault,Captur,Argent,SUV,422,1,40000,Diesel,140,Manuelle,5500000,3,13333
+Hyundai,Tucson,Noir,SUV,488,1,6000,Diesel,136,Automatique,8150000,1,6000
+Skoda,Rapid,Gris,Berline,415,1,138000,GPL,110,Manuelle,4100000,6,23000
+Nissan,Qashqai,Blanc,SUV,430,1,200,Essence,140,Manuelle,5350000,2,100
+Toyota,RAV4,Gris,SUV,542,1,235000,Diesel,150,Manuelle,2500000,15,15666
+Seat,Leon,Bleu,Compacte,380,1,142000,Diesel,150,Automatique,5750000,5,28400
+Ford,Focus,Rouge,Compacte,375,1,242000,Essence,105,Automatique,2550000,12,20166
+Opel,Mokka,Blanc,SUV,350,1,16000,Essence,130,Automatique,5100000,2,8000
+Volkswagen,Arteon,Noir,Berline,563,1,25000,Essence,190,Automatique,7700000,2,12500
+Audi,Q2,Gris,SUV,405,1,102000,Diesel,143,Automatique,6250000,5,20400
+BMW,X4,Noir,SUV,525,1,82000,Diesel,190,Automatique,11800000,4,20500
+Mercedes,ML,Gris,SUV,570,1,115000,Diesel,204,Automatique,4450000,13,8846
+Hyundai,i30,Rouge,Compacte,395,1,88000,Essence,120,Manuelle,4050000,4,22000
+Peugeot,208,Noir,Citadine,311,1,87000,Essence,82,Manuelle,5300000,4,21750
+Renault,Clio,Bleu,Citadine,391,1,22000,Diesel,100,Manuelle,5650000,2,11000
+Skoda,Karoq,Gris,SUV,521,1,18000,Essence,150,Automatique,8050000,4,4500
+Kia,Rio,Argent,Citadine,325,1,142000,Essence,100,Manuelle,3450000,6,23666
+Dacia,Duster,Rouge,SUV,445,1,98000,Diesel,105,Automatique,4550000,3,32666
+Toyota,Corolla,Argent,Berline,470,1,4500,Essence,140,Automatique,5350000,1,4500
+Seat,Ateca,Rouge,SUV,510,1,170000,Diesel,143,Automatique,5650000,7,24285
+Ford,Ranger,Gris,Pickup,1500,1,56000,Diesel,205,Automatique,7850000,4,14000
+Chery,Tiggo 4 Pro,Gris,SUV,420,1,18000,Essence,113,Manuelle,4150000,1,18000
+Fiat,500X,Noir,SUV,350,1,10000,Essence,140,Automatique,5300000,1,10000
+Suzuki,Vitara,Gris,SUV,375,1,118000,Diesel,129,Automatique,3400000,10,11800
+Chery,Tiggo 2 Pro,Blanc,SUV,420,1,32000,Essence,102,Automatique,3550000,2,16000
+Mitsubishi,Outlander,Blanc,SUV,477,1,275000,Diesel,140,Manuelle,2150000,18,15277
+Citroen,C3,Noir,Citadine,258,1,106000,Essence,110,Manuelle,3600000,4,26500
+Porsche,Macan,Blanc,SUV,500,1,30000,Essence,252,Automatique,14800000,7,4285
+Cupra,Formentor,Blanc,SUV,450,1,87000,Essence,150,Automatique,6450000,4,21750
+Volkswagen,T-Cross,Gris,SUV,385,1,27000,Essence,110,Automatique,5150000,3,9000
+Kia,Sorento,Argent,SUV,616,1,256000,Diesel,170,Automatique,2600000,15,17066
+Dacia,Jogger,Noir,Monospace,565,1,72000,Essence,100,Manuelle,4550000,4,18000
+Citroen,C Elysee,Gris,Berline,506,1,88000,Essence,72,Manuelle,2850000,13,6769
+Skoda,Kamiq,Noir,SUV,400,1,10000,Essence,150,Automatique,5550000,1,10000
+Hyundai,Accent,Blanc,Compacte,388,1,108000,Essence,100,Manuelle,3050000,9,12000
+Renault,Symbol,Rouge,Berline,450,1,170000,Essence,80,Manuelle,2950000,11,15454
+Audi,A3,Noir,Compacte,380,1,102000,Diesel,150,Automatique,6350000,8,12750
+Mercedes,Classe C,Bleu,Berline,455,1,2200,Diesel,194,Automatique,13200000,1,2200
+BMW,Serie 1,Noir,Compacte,360,1,5000,Essence,136,Automatique,13800000,1,5000
+Toyota,Yaris,Blanc,Citadine,286,1,175000,Essence,100,Manuelle,3350000,11,15909
+Seat,Arona,Noir,SUV,400,1,68000,Essence,110,Automatique,4300000,7,9714
+Opel,Insignia,Rouge,Berline,490,1,108000,Diesel,160,Automatique,3600000,11,9818
+Ford,Puma,Blanc,SUV,456,1,27000,Essence,125,Manuelle,4550000,3,9000
+Geely,Coolray,Argent,SUV,420,1,23000,Essence,177,Automatique,5450000,2,11500
+Fiat,500,Vert,Citadine,185,1,20000,Essence,70,Manuelle,260000,9,2222
+Suzuki,Celerio,Blanc,Citadine,254,1,120000,Essence,68,Automatique,1950000,13,9230
+Chevrolet,Spark,Rouge,Citadine,170,1,295000,Essence,68,Manuelle,1450000,13,22692
+Mitsubishi,L200,Gris,Pickup,1100,1,142000,Diesel,150,Automatique,5400000,5,28400
+Citroen,C5 Aircross,Noir,SUV,550,1,5000,Essence,180,Automatique,5950000,1,5000
+Porsche,Cayenne,Argent,SUV,772,1,195000,Diesel,265,Automatique,6150000,11,17727
+Volkswagen,Golf,Blanc,Compacte,380,1,92000,Diesel,110,Manuelle,3100000,6,15333
+Kia,Carens,Gris,Monospace,492,1,134000,Diesel,130,Manuelle,2980000,8,16750
+Dacia,Sandero Stepway,Noir,SUV,320,1,88000,Diesel,90,Manuelle,3250000,5,17600
+Peugeot,5008,Argent,SUV,680,0,42000,Essence,180,Automatique,7200000,2,21000
+Skoda,Kodiaq,Noir,SUV,630,1,62000,Diesel,200,Automatique,8800000,4,15500
+Hyundai,Creta,Gris,SUV,402,1,8500,Essence,128,Automatique,5850000,1,8500
+Renault,Megane,Blanc,Compacte,384,1,115000,Diesel,110,Manuelle,3300000,8,14375
+Audi,Q5,Gris,SUV,550,1,78000,Diesel,204,Automatique,9200000,4,19500
+Mercedes,GLA,Blanc,SUV,435,1,68000,Diesel,204,Automatique,8650000,6,11333
+Nissan,Juke,Noir,SUV,422,1,45000,Essence,117,Manuelle,5050000,2,22500
+BMW,X5,Argent,SUV,645,1,162000,Diesel,230,Automatique,3850000,9,18000
+Toyota,RAV4,Gris,SUV,542,1,178000,Essence,170,Automatique,3950000,10,17800
+Seat,Ateca,Blanc,SUV,510,1,58000,Essence,150,Manuelle,5950000,2,29000
+Opel,Mokka,Bleu,SUV,350,1,42000,Essence,130,Automatique,4800000,3,14000
+Ford,Kuga,Gris,SUV,412,1,86000,Diesel,120,Automatique,5100000,6,14333
+Geely,Coolray,Noir,SUV,420,1,42000,Essence,177,Automatique,5050000,2,21000
+Fiat,Tipo,Rouge,Berline,520,1,25000,Essence,110,Automatique,4600000,2,12500
+Suzuki,Baleno,Noir,Compacte,320,1,18000,Essence,90,Automatique,4100000,1,18000
+Chevrolet,Aveo,Gris,Compacte,370,1,420000,Essence,85,Manuelle,1980000,13,32307
+Citroen,C4,Blanc,Compacte,380,1,112000,Essence,120,Manuelle,2600000,8,14000
+Land Rover,Evoque,Argent,SUV,472,1,345000,Diesel,192,Automatique,3350000,11,31363
+DS,DS7,Blanc,SUV,550,1,102000,Diesel,130,Automatique,6200000,4,25500
+Cupra,Formentor,Gris,SUV,450,1,25000,Essence,150,Automatique,8650000,2,12500
+Volkswagen,T-Cross,Rouge,SUV,385,1,31000,Essence,110,Automatique,5150000,3,10333
+Kia,Seltos,Noir,SUV,392,1,12000,Essence,115,Automatique,4050000,1,12000
+Dacia,Jogger,Gris,Monospace,565,1,28000,Essence,100,Manuelle,4350000,2,14000
+Peugeot,2008,Noir,SUV,434,1,56000,Essence,115,Automatique,4700000,6,9333
+Skoda,Kamiq,Gris,SUV,400,1,15000,Essence,115,Automatique,6550000,1,15000
+Hyundai,Santa Fe,Noir,SUV,571,1,148000,Diesel,197,Automatique,5250000,9,16444
+Renault,Arkana,Blanc,SUV,480,1,89000,Essence,140,Automatique,5150000,3,29666
+Audi,A4,Blanc,Berline,480,1,485000,Diesel,140,Manuelle,1900000,15,32333
+Mercedes,Classe A,Gris,Compacte,370,1,178000,Diesel,156,Automatique,3400000,8,22250
+Nissan,Patrol,Noir,SUV,468,1,102000,Diesel,158,Manuelle,3450000,16,6375
+BMW,X3,Blanc,SUV,550,1,255000,Diesel,177,Manuelle,2950000,16,15937
+Toyota,Hilux,Blanc,Pickup,1500,1,450000,Diesel,120,Manuelle,4700000,10,45000
+Seat,Leon,Argent,Compacte,380,1,92000,Diesel,143,Manuelle,4700000,10,9200
+Opel,Grandland,Gris,SUV,514,1,42000,Essence,165,Automatique,5450000,3,14000
+Ford,Focus,Gris,Compacte,375,1,345000,Essence,100,Manuelle,1650000,16,21562
+Jetour,X70 Plus,Noir,SUV,600,1,5000,Essence,197,Automatique,8950000,1,5000
+Fiat,500X,Rouge,SUV,350,1,32000,Essence,140,Automatique,4650000,1,32000
+Suzuki,Celerio,Noir,Citadine,254,1,286000,Essence,68,Manuelle,165000,14,20428
+Chevrolet,Captiva,Gris,SUV,477,1,42000,Essence,150,Automatique,4350000,4,10500
+Land Rover,Discovery,Blanc,SUV,550,1,96000,Diesel,180,Automatique,5900000,8,12000
+Volkswagen,Polo,Bleu,Citadine,280,1,64000,Essence,90,Manuelle,3800000,7,9142
+Kia,Sorento,Gris,SUV,616,1,61000,Diesel,200,Automatique,7300000,9,6777
+Dacia,Lodgy,Noir,Monospace,827,1,35000,Diesel,90,Manuelle,4450000,5,7000
+Peugeot,Rifter,Blanc,Utilitaire,3300,1,2000,Diesel,92,Manuelle,7650000,1,2000
+Skoda,Scala,Gris,Compacte,467,1,51000,Essence,115,Automatique,3950000,6,8500
+Hyundai,Accent,Bleu,Compacte,388,1,620000,Essence,100,Manuelle,2150000,19,32631
+Renault,Symbol,Noir,Berline,450,1,51000,Essence,80,Manuelle,3500000,7,7285
+Audi,Q3,Blanc,SUV,450,1,189000,Diesel,177,Automatique,7050000,6,31500
+Mercedes,GLC,Noir,SUV,550,1,142000,Diesel,170,Automatique,6850000,8,17750
+Nissan,Navara,Gris,Pickup,1100,1,286000,Diesel,171,Manuelle,2450000,13,22000
+BMW,Serie 1,Blanc,Compacte,360,1,102000,Essence,136,Automatique,6050000,4,25500
+Toyota,Yaris,Bleu,Citadine,286,1,345000,GPL,86,Manuelle,1850000,20,17250
+Seat,Arona,Gris,SUV,400,1,29000,Essence,110,Automatique,4050000,4,7250
+Opel,Insignia,Blanc,Berline,490,1,245000,Diesel,130,Automatique,2450000,12,20416
+Ford,Puma,Noir,SUV,456,1,36000,Essence,125,Manuelle,4400000,3,12000
+Geely,Coolray,Bleu,SUV,420,1,45000,Essence,177,Automatique,5250000,2,22500
+Fiat,500,Noir,Citadine,185,1,158000,Essence,70,Manuelle,2400000,9,17555
+Suzuki,Swift,Blanc,Citadine,265,1,345000,GPL,85,Manuelle,2200000,12,28750
+Chevrolet,Sail,Gris,Compacte,370,1,255000,Essence,97,Manuelle,1700000,12,21250
+Mitsubishi,L200,Noir,Pickup,1100,1,125000,Diesel,150,Manuelle,5200000,5,25000
+Land Rover,Range Rover,Gris,SUV,550,1,95000,Diesel,211,Automatique,5300000,8,11875
+Volkswagen,Golf,Gris,Compacte,380,1,142000,Diesel,110,Manuelle,3350000,8,17750
+Kia,Picanto,Bleu,Citadine,255,1,152000,Essence,65,Automatique,3500000,8,19000
+Dacia,Sandero Stepway,Blanc,SUV,320,1,18000,Essence,110,Manuelle,5300000,1,18000
+Peugeot,208,Rouge,Citadine,311,1,168000,Essence,92,Manuelle,3450000,8,21000
+Skoda,Fabia,Bleu,Citadine,330,1,245000,Essence,65,Manuelle,2550000,10,24500
+Hyundai,i20,Blanc,Citadine,326,1,18000,Essence,100,Automatique,4700000,1,18000
+Renault,Clio,Argent,Citadine,391,1,102000,Diesel,85,Manuelle,3700000,6,17000
+Audi,A1,Noir,Citadine,335,1,85000,Essence,150,Automatique,6450000,3,28333
+Mercedes,Classe E,Gris,Berline,540,1,62000,Diesel,220,Automatique,7950000,7,8857
+Nissan,Sunny,Gris,Berline,490,1,375000,GPL,100,Manuelle,2150000,12,31250
+BMW,Serie 5,Blanc,Berline,520,1,238000,Essence,272,Automatique,3150000,15,15866
+Toyota,Aygo,Rouge,Citadine,168,1,78000,Essence,70,Automatique,2950000,5,15600
+Seat,Leon,Noir,Compacte,380,1,108000,Diesel,143,Manuelle,6000000,7,15428
+Opel,Astra,Blanc,Compacte,370,1,8500,Essence,130,Automatique,5300000,1,8500
+Ford,Focus,Argent,Compacte,375,1,198000,Essence,182,Manuelle,2400000,12,16500
+Jetour,Dashing,Blanc,SUV,486,1,10000,Essence,197,Automatique,7350000,1,10000
+Fiat,Tipo,Noir,Berline,520,1,42000,Essence,110,Automatique,4550000,2,21000
+Suzuki,Baleno,Blanc,Compacte,320,1,98000,Essence,90,Automatique,3750000,3,32666
+Chevrolet,Spark,Noir,Citadine,170,1,85000,Essence,65,Manuelle,1150000,10,8500
+DS,DS7,Argent,SUV,550,1,102000,Diesel,180,Automatique,7000000,4,25500
+Porsche,Cayenne,Gris,SUV,772,1,85000,Essence,400,Automatique,13800000,14,6071
+Volkswagen,Tiguan,Bleu,SUV,520,1,1420000,Diesel,150,Automatique,6850000,5,284000
+Kia,Sportage,Argent,SUV,546,1,155000,Diesel,177,Automatique,5150000,7,22142
+Dacia,Logan,Gris,Berline,510,1,375000,Essence,75,Manuelle,1450000,11,34090
+Peugeot,3008,Blanc,SUV,520,1,4500,Essence,180,Automatique,8750000,1,4500
+Skoda,Octavia,Gris,Berline,600,1,234000,Essence,143,Manuelle,4250000,7,33428
+Hyundai,Elantra,Noir,Berline,458,1,10000,Essence,115,Automatique,3750000,1,10000
+Renault,Kadjar,Noir,SUV,472,1,72000,Essence,140,Automatique,4750000,5,14400
+Audi,Q7,Gris,SUV,770,1,165000,Essence,252,Automatique,6700000,9,18333
+Mercedes,ML,Noir,SUV,570,1,278000,Diesel,204,Automatique,3250000,12,23166
+Nissan,Sunny,Noir,Berline,490,1,35000,Essence,100,Automatique,3650000,2,17500
+BMW,X6,Blanc,SUV,580,1,138000,Diesel,306,Automatique,5350000,12,11500
+Toyota,Land Cruiser,Noir,SUV,621,1,520000,Diesel,131,Manuelle,4450000,19,27368
+Seat,Ateca,Blanc,SUV,510,1,62000,Essence,150,Automatique,7050000,3,20666
+Opel,Grandland,Bleu,SUV,514,1,2500,Essence,165,Automatique,6300000,1,2500
+Ford,Kuga,Noir,SUV,412,1,3000,Essence,180,Manuelle,6650000,3,1000
+Chery,QQ,Gris,Citadine,180,1,210000,Essence,38,Manuelle,1300000,12,17500
+Fiat,500X,Vert,SUV,350,1,30000,Essence,140,Automatique,4950000,1,30000
+Suzuki,Maruti,Blanc,Citadine,235,1,51000,Essence,45,Manuelle,1050000,16,3187
+Chevrolet,Captiva,Rouge,SUV,477,1,235000,Diesel,184,Manuelle,1600000,10,23500
+Citroen,Berlingo,Blanc,Monospace,700,1,5000,Diesel,180,Automatique,6700000,1,5000
+Volkswagen,Golf,Bleu,Compacte,380,1,35000,Essence,140,Manuelle,2250000,16,2187
+Kia,Rio,Noir,Citadine,325,1,178000,Diesel,112,Manuelle,2250000,15,11866
+Peugeot,206,Gris,Citadine,245,1,265000,Essence,60,Manuelle,1800000,13,20384
+Renault,Clio,Bleu,Citadine,391,1,452000,GPL,75,Manuelle,1350000,19,23789
+Dacia,Logan,Rouge,Berline,510,1,325000,GPL,75,Manuelle,2150000,9,36111
+Fiat,Tipo,Blanc,Compacte,440,1,50000,Essence,100,Manuelle,3550000,4,12500
+Opel,Corsa,Blanc,Citadine,309,1,78000,Essence,70,Manuelle,3050000,4,19500
+Ford,Ranger,Noir,Pickup,1500,1,225000,Diesel,125,Manuelle,2300000,9,25000
+Toyota,Yaris,Noir,Citadine,286,1,285000,Essence,87,Manuelle,2650000,16,17812
+Volkswagen,Polo,Argent,Citadine,280,1,285000,Diesel,80,Manuelle,1950000,18,15833
+Hyundai,i10,Blanc,Citadine,252,1,188000,Essence,87,Manuelle,3150000,8,23500
+Skoda,Fabia,Rouge,Citadine,330,1,152000,Diesel,90,Manuelle,3450000,6,25333
+Nissan,Micra,Gris,Citadine,300,1,215000,Essence,75,Manuelle,1750000,13,16538
+Suzuki,Swift,Noir,Citadine,265,1,78000,Essence,85,Automatique,3250000,4,19500
+Citroen,C3,Rouge,Citadine,300,1,338000,Essence,70,Manuelle,1900000,13,26000
+Peugeot,307,Noir,Compacte,420,1,330000,Diesel,90,Manuelle,2200000,20,16500
+Renault,Megane,Blanc,Compacte,384,1,485000,Diesel,85,Manuelle,1000000,19,25526
+Volkswagen,Passat,Gris,Berline,586,1,235000,Diesel,102,Manuelle,2300000,21,11190
+Opel,Astra,Gris,Compacte,370,1,5500,Essence,130,Automatique,6100000,1,5500
+Ford,Fiesta,Noir,Citadine,292,1,52000,Essence,145,Manuelle,3950000,4,13000
+Toyota,Corolla,Gris,Berline,450,1,375000,Diesel,130,Manuelle,1950000,16,23437
+Kia,Picanto,Blanc,Citadine,255,1,438000,Essence,60,Manuelle,1800000,15,29200
+Hyundai,Accent,Rouge,Compacte,388,1,115000,Diesel,128,Manuelle,2950000,7,16428
+Dacia,Sandero,Noir,Citadine,320,1,6500,Essence,65,Manuelle,3050000,5,1300
+Fiat,Doblo,Gris,Utilitaire,3800,1,95000,Essence,92,Manuelle,3400000,3,31666
+BMW,Serie 3,Blanc,Berline,480,1,35000,Diesel,200,Automatique,12700000,2,17500
+Mercedes,Classe C,Argent,Berline,455,1,102000,Diesel,204,Automatique,3450000,11,9272
+Audi,Q5,Blanc,SUV,550,1,158000,Diesel,170,Automatique,5050000,4,39500
+Volkswagen,Golf,Vert,Compacte,380,1,82000,Essence,110,Manuelle,3150000,8,10250
+Kia,Sportage,Bleu,SUV,546,1,62000,Diesel,180,Automatique,7350000,3,20666
+Peugeot,207,Noir,Citadine,385,1,272000,GPL,75,Manuelle,2250000,13,20923
+Renault,Captur,Argent,SUV,422,1,40000,Diesel,140,Manuelle,5500000,3,13333
+Hyundai,Tucson,Noir,SUV,488,1,6000,Diesel,136,Automatique,8150000,1,6000
+Skoda,Rapid,Gris,Berline,415,1,138000,GPL,110,Manuelle,4100000,6,23000
+Nissan,Qashqai,Blanc,SUV,430,1,200,Essence,140,Manuelle,5350000,2,100
+Toyota,RAV4,Gris,SUV,542,1,235000,Diesel,150,Manuelle,2500000,15,15666
+Seat,Leon,Bleu,Compacte,380,1,142000,Diesel,150,Automatique,5750000,5,28400
+Ford,Focus,Rouge,Compacte,375,1,242000,Essence,105,Automatique,2550000,12,20166
+Opel,Mokka,Blanc,SUV,350,1,16000,Essence,130,Automatique,5100000,2,8000
+Volkswagen,Arteon,Noir,Berline,563,1,25000,Essence,190,Automatique,7700000,2,12500
+Audi,Q2,Gris,SUV,405,1,102000,Diesel,143,Automatique,6250000,5,20400
+BMW,X4,Noir,SUV,525,1,82000,Diesel,190,Automatique,11800000,4,20500
+Mercedes,ML,Gris,SUV,570,1,115000,Diesel,204,Automatique,4450000,13,8846
+Hyundai,i30,Rouge,Compacte,395,1,88000,Essence,120,Manuelle,4050000,4,22000
+Peugeot,208,Noir,Citadine,311,1,87000,Essence,82,Manuelle,5300000,4,21750
+Renault,Clio,Bleu,Citadine,391,1,22000,Diesel,100,Manuelle,5650000,2,11000
+Skoda,Karoq,Gris,SUV,521,1,18000,Essence,150,Automatique,8050000,4,4500
+Kia,Rio,Argent,Citadine,325,1,142000,Essence,100,Manuelle,3450000,6,23666
+Dacia,Duster,Rouge,SUV,445,1,98000,Diesel,105,Automatique,4550000,3,32666
+Toyota,Corolla,Argent,Berline,470,1,4500,Essence,140,Automatique,5350000,1,4500
+Seat,Ateca,Rouge,SUV,510,1,170000,Diesel,143,Automatique,5650000,7,24285
+Ford,Ranger,Gris,Pickup,1500,1,56000,Diesel,205,Automatique,7850000,4,14000
+Chery,Tiggo 4 Pro,Gris,SUV,420,1,18000,Essence,113,Manuelle,4150000,1,18000
+Fiat,500X,Noir,SUV,350,1,10000,Essence,140,Automatique,5300000,1,10000
+Suzuki,Vitara,Gris,SUV,375,1,118000,Diesel,129,Automatique,3400000,10,11800
+Chery,Tiggo 2 Pro,Blanc,SUV,420,1,32000,Essence,102,Automatique,3550000,2,16000
+Mitsubishi,Outlander,Blanc,SUV,477,1,275000,Diesel,140,Manuelle,2150000,18,15277
+Citroen,C3,Noir,Citadine,258,1,106000,Essence,110,Manuelle,3600000,4,26500
+Porsche,Macan,Blanc,SUV,500,1,30000,Essence,252,Automatique,14800000,7,4285
+Cupra,Formentor,Blanc,SUV,450,1,87000,Essence,150,Automatique,6450000,4,21750
+Volkswagen,T-Cross,Gris,SUV,385,1,27000,Essence,110,Automatique,5150000,3,9000
+Kia,Sorento,Argent,SUV,616,1,256000,Diesel,170,Automatique,2600000,15,17066
+Dacia,Jogger,Noir,Monospace,565,1,72000,Essence,100,Manuelle,4550000,4,18000
+Citroen,C Elysee,Gris,Berline,506,1,88000,Essence,72,Manuelle,2850000,13,6769
+Skoda,Kamiq,Noir,SUV,400,1,10000,Essence,150,Automatique,5550000,1,10000
+Hyundai,Accent,Blanc,Compacte,388,1,108000,Essence,100,Manuelle,3050000,9,12000
+Renault,Symbol,Rouge,Berline,450,1,170000,Essence,80,Manuelle,2950000,11,15454
+Audi,A3,Noir,Compacte,380,1,102000,Diesel,150,Automatique,6350000,8,12750
+Mercedes,Classe C,Bleu,Berline,455,1,2200,Diesel,194,Automatique,13200000,1,2200
+BMW,Serie 1,Noir,Compacte,360,1,5000,Essence,136,Automatique,13800000,1,5000
+Toyota,Yaris,Blanc,Citadine,286,1,175000,Essence,100,Manuelle,3350000,11,15909
+Seat,Arona,Noir,SUV,400,1,68000,Essence,110,Automatique,4300000,7,9714
+Opel,Insignia,Rouge,Berline,490,1,108000,Diesel,160,Automatique,3600000,11,9818
+Ford,Puma,Blanc,SUV,456,1,27000,Essence,125,Manuelle,4550000,3,9000
+Geely,Coolray,Argent,SUV,420,1,23000,Essence,177,Automatique,5450000,2,11500
+Fiat,500,Vert,Citadine,185,1,20000,Essence,70,Manuelle,260000,9,2222
+Suzuki,Celerio,Blanc,Citadine,254,1,120000,Essence,68,Automatique,1950000,13,9230
+Chevrolet,Spark,Rouge,Citadine,170,1,295000,Essence,68,Manuelle,1450000,13,22692
+Mitsubishi,L200,Gris,Pickup,1100,1,142000,Diesel,150,Automatique,5400000,5,28400
+Citroen,C5 Aircross,Noir,SUV,550,1,5000,Essence,180,Automatique,5950000,1,5000
+Porsche,Cayenne,Argent,SUV,772,1,195000,Diesel,265,Automatique,6150000,11,17727
+Volkswagen,Golf,Blanc,Compacte,380,1,92000,Diesel,110,Manuelle,3100000,6,15333
+Kia,Carens,Gris,Monospace,492,1,134000,Diesel,130,Manuelle,2980000,8,16750
+Dacia,Sandero Stepway,Noir,SUV,320,1,88000,Diesel,90,Manuelle,3250000,5,17600
+Peugeot,5008,Argent,SUV,680,0,42000,Essence,180,Automatique,7200000,2,21000
+Skoda,Kodiaq,Noir,SUV,630,1,62000,Diesel,200,Automatique,8800000,4,15500
+Hyundai,Creta,Gris,SUV,402,1,8500,Essence,128,Automatique,5850000,1,8500
+Renault,Megane,Blanc,Compacte,384,1,115000,Diesel,110,Manuelle,3300000,8,14375
+Audi,Q5,Gris,SUV,550,1,78000,Diesel,204,Automatique,9200000,4,19500
+Mercedes,GLA,Blanc,SUV,435,1,68000,Diesel,204,Automatique,8650000,6,11333
+Nissan,Juke,Noir,SUV,422,1,45000,Essence,117,Manuelle,5050000,2,22500
+BMW,X5,Argent,SUV,645,1,162000,Diesel,230,Automatique,3850000,9,18000
+Toyota,RAV4,Gris,SUV,542,1,178000,Essence,170,Automatique,3950000,10,17800
+Seat,Ateca,Blanc,SUV,510,1,58000,Essence,150,Manuelle,5950000,2,29000
+Opel,Mokka,Bleu,SUV,350,1,42000,Essence,130,Automatique,4800000,3,14000
+Ford,Kuga,Gris,SUV,412,1,86000,Diesel,120,Automatique,5100000,6,14333
+Geely,Coolray,Noir,SUV,420,1,42000,Essence,177,Automatique,5050000,2,21000
+Fiat,Tipo,Rouge,Berline,520,1,25000,Essence,110,Automatique,4600000,2,12500
