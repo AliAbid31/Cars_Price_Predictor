@@ -7,7 +7,7 @@ import traceback
 app = Flask(__name__)
 CORS(app)
 
-@app.route('/api/predict', methods=['POST'])
+@app.route('/predict', methods=['POST'])
 def predict():
     try:
         data = request.get_json()
