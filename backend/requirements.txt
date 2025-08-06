@@ -6,7 +6,8 @@ Flask-Cors
 gunicorn
 
 # Pour la data science et le modèle ML
-scikit-learn
+scikit-learn==1.6.1
 pandas
 numpy
 joblib
+
