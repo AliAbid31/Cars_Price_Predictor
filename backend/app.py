@@ -7,6 +7,9 @@ import traceback
 app = Flask(__name__)
 CORS(app)
 
+@app.route('/')  
+def health_check():
+    return "✅ Le serveur backend est en ligne et prêt à recevoir des prédictions !"
 @app.route('/predict', methods=['POST'])
 def predict():
     try:
